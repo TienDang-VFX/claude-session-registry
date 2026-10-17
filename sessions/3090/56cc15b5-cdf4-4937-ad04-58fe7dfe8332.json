@@ -3,7 +3,9 @@
   "sessionId": "56cc15b5-cdf4-4937-ad04-58fe7dfe8332",
   "cwd": "J:\\S2Project\\s2",
   "feature": "Quản lý session đa thiết bị",
-  "status": "active",
+  "status": "done",
   "startedAt": "2026-10-17T11:30:13.680Z",
-  "updatedAt": "2026-10-17T11:31:40.763Z"
+  "updatedAt": "2026-10-17T11:53:22.766Z",
+  "doneAt": "2026-10-17T11:53:22.766Z",
+  "note": "session-fleet plugin built, published, installed on 3090 and 5080"
 }
