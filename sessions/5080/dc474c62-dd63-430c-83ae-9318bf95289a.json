@@ -2,8 +2,8 @@
   "machine": "5080",
   "sessionId": "dc474c62-dd63-430c-83ae-9318bf95289a",
   "cwd": "G:\\s2",
-  "feature": "",
+  "feature": "Twinblades SPAttack2 hitbox regression audit",
   "status": "active",
   "startedAt": "2026-10-18T07:56:40.387Z",
-  "updatedAt": "2026-10-18T07:56:40.388Z"
+  "updatedAt": "2026-10-18T07:56:44.249Z"
 }
