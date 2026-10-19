@@ -2,8 +2,8 @@
   "machine": "5080",
   "sessionId": "645cd015-433d-47e7-b3e7-cfac7cddf071",
   "cwd": "G:\\s2",
-  "feature": "",
+  "feature": "<scheduled-task name=\"session-fleet-tidy\" file=\"C:\\Users\\Adm",
   "status": "active",
   "startedAt": "2026-10-19T03:45:18.892Z",
-  "updatedAt": "2026-10-19T03:45:18.894Z"
+  "updatedAt": "2026-10-19T03:45:28.856Z"
 }
