@@ -3,7 +3,9 @@
   "sessionId": "c542b856-6b0d-45d3-9192-7e6ccc66cd16",
   "cwd": "/Users/auto-annie/OpenMontage",
   "feature": "Greeting message handling",
-  "status": "active",
+  "status": "done",
   "startedAt": "2026-10-20T00:29:14.271Z",
-  "updatedAt": "2026-10-20T01:46:14.073Z"
+  "updatedAt": "2026-10-20T01:49:12.212Z",
+  "doneAt": "2026-10-20T01:49:12.212Z",
+  "note": "Recovered 2 overnight intro sessions; fixed Mac session bridge (signed-in account as source); Windows fix documented"
 }
