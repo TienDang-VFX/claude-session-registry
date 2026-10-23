@@ -5,7 +5,7 @@
   "feature": "Quản lý session đa thiết bị",
   "status": "done",
   "startedAt": "2026-10-17T11:30:13.680Z",
-  "updatedAt": "2026-10-22T06:20:45.583Z",
+  "updatedAt": "2026-10-23T03:28:01.136Z",
   "doneAt": "2026-10-17T11:53:22.766Z",
   "note": "session-fleet plugin built, published, installed on 3090 and 5080",
   "isMarkedCompleted": true
