@@ -2,8 +2,8 @@
   "machine": "5080",
   "sessionId": "2655d524-1586-45f0-bbf0-0be48b14f6cf",
   "cwd": "G:\\s2",
-  "feature": "Enemy Review Nested Class Fix",
+  "feature": "Fix ReviewEnemyInPIE ignoring Target.EnemyClass",
   "status": "active",
   "startedAt": "2026-10-24T14:55:47.394Z",
-  "updatedAt": "2026-10-24T14:55:49.870Z"
+  "updatedAt": "2026-10-24T14:56:19.895Z"
 }
