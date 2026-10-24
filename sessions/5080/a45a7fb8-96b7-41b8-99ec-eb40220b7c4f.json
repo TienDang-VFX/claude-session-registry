@@ -3,7 +3,9 @@
   "sessionId": "a45a7fb8-96b7-41b8-99ec-eb40220b7c4f",
   "cwd": "G:\\s2",
   "feature": "Tiger Baked Trail Review",
-  "status": "active",
+  "status": "done",
   "startedAt": "2026-10-23T01:58:38.457Z",
-  "updatedAt": "2026-10-24T13:56:25.193Z"
+  "updatedAt": "2026-10-24T13:57:11.254Z",
+  "doneAt": "2026-10-24T13:57:11.254Z",
+  "note": "Tiger baked trails (#34731), review dashboard skill (#34745/#34772/#34789/#34873), Tiger smoke colour 4 rounds (#34874) merged"
 }
