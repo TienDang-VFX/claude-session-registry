@@ -5,7 +5,7 @@
   "feature": "Greeting message handling",
   "status": "done",
   "startedAt": "2026-10-20T00:29:14.271Z",
-  "updatedAt": "2026-10-22T15:34:50.910Z",
+  "updatedAt": "2026-10-25T13:43:22.267Z",
   "doneAt": "2026-10-20T01:49:12.212Z",
   "note": "Recovered 2 overnight intro sessions; fixed Mac session bridge (signed-in account as source); Windows fix documented",
   "isMarkedCompleted": true
