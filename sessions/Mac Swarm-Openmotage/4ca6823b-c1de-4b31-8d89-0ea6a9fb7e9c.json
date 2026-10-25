@@ -2,8 +2,9 @@
   "machine": "Mac Swarm-Openmotage",
   "sessionId": "4ca6823b-c1de-4b31-8d89-0ea6a9fb7e9c",
   "cwd": "/Users/auto-annie/OpenMontage",
-  "feature": "Cập nhật kiến thức",
+  "feature": "Quản lý xưởng",
   "status": "active",
   "startedAt": "2026-10-22T02:35:19.195Z",
-  "updatedAt": "2026-10-24T12:09:18.389Z"
+  "updatedAt": "2026-10-25T07:21:40.340Z",
+  "featureSource": "user"
 }
