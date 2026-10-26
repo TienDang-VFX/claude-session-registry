@@ -2,8 +2,8 @@
   "machine": "3090",
   "sessionId": "91d74978-b21e-4cbe-9eee-83953d68871d",
   "cwd": "J:\\S2Project\\s2",
-  "feature": "Dọn tên và nhóm session",
+  "feature": "session-fleet-tidy (scheduled)",
   "status": "active",
   "startedAt": "2026-10-20T17:11:51.206Z",
-  "updatedAt": "2026-10-26T01:46:41.732Z"
+  "updatedAt": "2026-10-26T02:16:42.482Z"
 }
