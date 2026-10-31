@@ -3,7 +3,9 @@
   "sessionId": "807f47cf-bbe3-4afc-8715-ab6470026398",
   "cwd": "/Users/auto-annie/OpenMontage",
   "feature": "Bảo trì SwarmUI",
-  "status": "active",
+  "status": "done",
   "startedAt": "2026-10-26T06:09:35.755Z",
-  "updatedAt": "2026-10-30T16:38:45.064Z"
+  "updatedAt": "2026-10-31T07:16:58.392Z",
+  "doneAt": "2026-10-31T07:16:58.391Z",
+  "note": "SwarmUI overhaul closed: Jobs tab, Regenerate/Reuse, MCP + OAuth, persisted job history, scheduler avoids Comfy Instance jobs (PRs #17–#37, live 7fd9829e)"
 }
