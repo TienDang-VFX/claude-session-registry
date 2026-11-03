@@ -1,9 +1,9 @@
 {
   "machine": "3090",
   "sessionId": "85451cb2-05b6-4e08-8f89-bc69ea92ce2c",
-  "cwd": "J:\\S2Project\\s2",
+  "cwd": "J:\\S2Project\\s2\\Plugins\\GameFeatures\\ToolExtensions\\SipherWorkingToolExtension\\Source\\SipherWorkingToolExtensionRuntime",
   "feature": "Công cụ review cutscene theo phase",
   "status": "active",
   "startedAt": "2026-11-02T16:04:05.734Z",
-  "updatedAt": "2026-11-03T01:44:19.807Z"
+  "updatedAt": "2026-11-03T06:12:11.253Z"
 }
