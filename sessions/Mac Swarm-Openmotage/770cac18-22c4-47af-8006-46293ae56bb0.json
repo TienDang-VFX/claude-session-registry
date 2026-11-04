@@ -2,8 +2,8 @@
   "machine": "Mac Swarm-Openmotage",
   "sessionId": "770cac18-22c4-47af-8006-46293ae56bb0",
   "cwd": "/Users/auto-annie/OpenMontage",
-  "feature": "Gỡ bỏ CozyClay khỏi pipeline",
+  "feature": "Gỡ CozyClay khỏi pipeline, merge OpenMontage upstream",
   "status": "active",
   "startedAt": "2026-11-04T06:58:11.842Z",
-  "updatedAt": "2026-11-04T06:58:25.602Z"
+  "updatedAt": "2026-11-04T06:58:55.632Z"
 }
