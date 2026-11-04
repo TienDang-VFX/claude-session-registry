@@ -5,7 +5,7 @@
   "feature": "Bảo trì SwarmUI",
   "status": "done",
   "startedAt": "2026-10-26T06:09:35.755Z",
-  "updatedAt": "2026-11-02T14:08:40.223Z",
+  "updatedAt": "2026-11-04T07:27:06.701Z",
   "doneAt": "2026-10-31T07:16:58.391Z",
   "note": "SwarmUI overhaul closed: Jobs tab, Regenerate/Reuse, MCP + OAuth, persisted job history, scheduler avoids Comfy Instance jobs (PRs #17–#37, live 7fd9829e)",
   "isMarkedCompleted": true
