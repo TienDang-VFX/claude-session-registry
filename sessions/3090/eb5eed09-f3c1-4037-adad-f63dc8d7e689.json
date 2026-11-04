@@ -2,8 +2,8 @@
   "machine": "3090",
   "sessionId": "eb5eed09-f3c1-4037-adad-f63dc8d7e689",
   "cwd": "J:\\S2Project\\s2",
-  "feature": "Agent Niagara System Composition",
+  "feature": "Make Compose usable by agents (ComposeSystem MCP)",
   "status": "active",
   "startedAt": "2026-11-04T08:27:56.157Z",
-  "updatedAt": "2026-11-04T08:28:01.945Z"
+  "updatedAt": "2026-11-04T08:28:32.035Z"
 }
