@@ -5,7 +5,8 @@
   "feature": "Sửa ánh sáng New Cave",
   "status": "done",
   "startedAt": "2026-10-31T12:27:56.535Z",
-  "updatedAt": "2026-11-07T03:53:20.371Z",
+  "updatedAt": "2026-11-07T08:10:17.182Z",
   "doneAt": "2026-11-07T03:53:20.371Z",
-  "note": "All lighting/BVT/gym work on main (#36770 #36864 #36912 #36981 #37026); #37053 reverts 22:56 saves of SH010/SH020/SH051; #36916 closed as superseded"
+  "note": "All lighting/BVT/gym work on main (#36770 #36864 #36912 #36981 #37026); #37053 reverts 22:56 saves of SH010/SH020/SH051; #36916 closed as superseded",
+  "isMarkedCompleted": true
 }
