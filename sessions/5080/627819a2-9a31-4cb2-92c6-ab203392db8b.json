@@ -3,7 +3,9 @@
   "sessionId": "627819a2-9a31-4cb2-92c6-ab203392db8b",
   "cwd": "G:\\s2",
   "feature": "Sửa ánh sáng New Cave",
-  "status": "active",
+  "status": "done",
   "startedAt": "2026-10-31T12:27:56.535Z",
-  "updatedAt": "2026-11-07T03:47:04.195Z"
+  "updatedAt": "2026-11-07T03:53:20.371Z",
+  "doneAt": "2026-11-07T03:53:20.371Z",
+  "note": "All lighting/BVT/gym work on main (#36770 #36864 #36912 #36981 #37026); #37053 reverts 22:56 saves of SH010/SH020/SH051; #36916 closed as superseded"
 }
