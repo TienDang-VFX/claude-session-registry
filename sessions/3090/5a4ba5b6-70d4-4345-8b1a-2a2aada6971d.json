@@ -2,11 +2,12 @@
   "machine": "3090",
   "sessionId": "5a4ba5b6-70d4-4345-8b1a-2a2aada6971d",
   "cwd": "J:\\S2Project\\s2",
-  "feature": "Kết nối MCP SwarmUI",
+  "feature": "MCP SwarmUI gen cutscene Aobing",
   "status": "done",
   "startedAt": "2026-11-03T02:52:07.402Z",
-  "updatedAt": "2026-11-10T06:12:04.005Z",
+  "updatedAt": "2026-11-10T06:42:04.791Z",
   "doneAt": "2026-11-04T10:44:12.531Z",
   "note": "Chốt SH050 take12 v3 (15 s, chớp mắt POV, rung khi bước) trên board AtherDraw",
-  "isMarkedCompleted": true
+  "isMarkedCompleted": true,
+  "userTitle": "[3090] ✅ MCP SwarmUI gen cutscene Aobing"
 }
