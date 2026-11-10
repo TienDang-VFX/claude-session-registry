@@ -2,8 +2,13 @@
   "machine": "4090",
   "sessionId": "97e4fc1b-8ecd-41ab-bc68-161e4aa13e9f",
   "cwd": "D:\\s2",
-  "feature": "",
+  "feature": "Dọn nhóm session-fleet",
   "status": "active",
   "startedAt": "2026-11-10T03:54:17.262Z",
-  "updatedAt": "2026-11-10T03:54:17.264Z"
+  "updatedAt": "2026-11-10T03:54:20.737Z",
+  "appliedTitle": "[4090] Dọn nhóm session-fleet",
+  "live": {
+    "state": "working",
+    "at": "2026-11-10T03:54:20.682Z"
+  }
 }
