@@ -2,8 +2,14 @@
   "machine": "4090",
   "sessionId": "9ee688e3-c0d1-4823-bea2-a852bf9ca794",
   "cwd": "D:\\s2",
-  "feature": "",
+  "feature": "App Removal Feature",
   "status": "active",
   "startedAt": "2026-11-10T06:21:58.333Z",
-  "updatedAt": "2026-11-10T06:21:58.334Z"
+  "updatedAt": "2026-11-10T06:22:00.149Z",
+  "live": {
+    "state": "working",
+    "at": "2026-11-10T06:22:00.083Z"
+  },
+  "host": "BLACKGEAR",
+  "remoteSession": "session_01XeXbvSZ3N5P8Z8yT2f6hVi"
 }
