@@ -5,10 +5,12 @@
   "feature": "App Uninstallation Feature",
   "status": "active",
   "startedAt": "2026-11-10T06:20:58.054Z",
-  "updatedAt": "2026-11-10T06:20:59.800Z",
+  "updatedAt": "2026-11-10T06:21:33.132Z",
   "live": {
-    "state": "working",
-    "at": "2026-11-10T06:20:59.754Z"
+    "state": "idle",
+    "at": "2026-11-10T06:21:33.086Z"
   },
-  "host": "BLACKGEAR"
+  "host": "BLACKGEAR",
+  "appliedTitle": "[4090] App Uninstallation Feature",
+  "remoteSession": "session_01XeXbvSZ3N5P8Z8yT2f6hVi"
 }
