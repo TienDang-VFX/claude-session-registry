@@ -2,9 +2,16 @@
   "machine": "5080",
   "sessionId": "af382175-9bc8-463e-a860-0d8470776904",
   "cwd": "G:\\s2",
-  "feature": "Kết nối MCP đọc board",
+  "feature": "Lighting Aobing Boss",
   "status": "active",
   "startedAt": "2026-11-09T16:52:33.126Z",
-  "updatedAt": "2026-11-10T04:17:57.028Z",
-  "featureSource": "user"
+  "updatedAt": "2026-11-10T04:37:36.947Z",
+  "featureSource": "user",
+  "userTitle": "[5080] Lighting Aobing Boss",
+  "live": {
+    "state": "working",
+    "at": "2026-11-10T04:37:36.869Z"
+  },
+  "host": "HCM-5080",
+  "remoteSession": "session_01RT8EhDVMdE4pPo4bFGwhwK"
 }
