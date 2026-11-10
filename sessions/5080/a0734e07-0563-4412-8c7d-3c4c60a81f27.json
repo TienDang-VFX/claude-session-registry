@@ -5,6 +5,11 @@
   "feature": "Lighting Aobing Boss",
   "status": "active",
   "startedAt": "2026-11-10T08:43:09.765Z",
-  "updatedAt": "2026-11-10T08:43:09.767Z",
-  "userTitle": "[5080] Lighting Aobing Boss"
+  "updatedAt": "2026-11-10T08:43:21.581Z",
+  "userTitle": "[5080] Lighting Aobing Boss",
+  "live": {
+    "state": "working",
+    "at": "2026-11-10T08:43:21.542Z"
+  },
+  "host": "HCM-5080"
 }
