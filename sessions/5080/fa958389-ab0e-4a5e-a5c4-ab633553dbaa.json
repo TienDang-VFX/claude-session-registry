@@ -5,5 +5,12 @@
   "feature": "Dọn dẹp ổ G",
   "status": "active",
   "startedAt": "2026-11-09T12:33:56.527Z",
-  "updatedAt": "2026-11-10T04:31:01.072Z"
+  "updatedAt": "2026-11-10T04:31:44.528Z",
+  "live": {
+    "state": "idle",
+    "at": "2026-11-10T04:31:44.400Z"
+  },
+  "host": "HCM-5080",
+  "remoteSession": "session_01RT8EhHxmjq5MBhz1oZZcgr",
+  "appliedTitle": "[5080] Dọn dẹp ổ G"
 }
