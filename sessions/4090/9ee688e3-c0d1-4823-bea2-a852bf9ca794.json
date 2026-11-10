@@ -5,10 +5,10 @@
   "feature": "App Removal Feature",
   "status": "active",
   "startedAt": "2026-11-10T06:21:58.333Z",
-  "updatedAt": "2026-11-10T06:22:58.516Z",
+  "updatedAt": "2026-11-10T06:25:43.775Z",
   "live": {
-    "state": "waiting",
-    "at": "2026-11-10T06:22:58.516Z"
+    "state": "working",
+    "at": "2026-11-10T06:25:43.775Z"
   },
   "host": "BLACKGEAR",
   "remoteSession": "session_01XeXbvSZ3N5P8Z8yT2f6hVi",
