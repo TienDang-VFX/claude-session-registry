@@ -5,11 +5,11 @@
   "feature": "Quản lý đăng ký người dùng",
   "status": "active",
   "startedAt": "2026-11-10T01:53:23.930Z",
-  "updatedAt": "2026-11-10T04:36:58.543Z",
+  "updatedAt": "2026-11-10T04:41:14.297Z",
   "appliedTitle": "[3090] Quản lý đăng ký người dùng",
   "live": {
     "state": "working",
-    "at": "2026-11-10T04:36:58.543Z"
+    "at": "2026-11-10T04:41:14.296Z"
   },
   "remoteSession": "session_01RT8EhESRHU3r3u6Hwmmrwa",
   "host": "DESKTOP-A4192P7"
