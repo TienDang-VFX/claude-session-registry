@@ -5,11 +5,11 @@
   "feature": "Skill tự di chuyển check lighting",
   "status": "active",
   "startedAt": "2026-11-10T08:43:09.765Z",
-  "updatedAt": "2026-11-10T12:51:19.747Z",
+  "updatedAt": "2026-11-10T12:52:18.368Z",
   "userTitle": "[5080] Skill tự di chuyển check lighting",
   "live": {
-    "state": "working",
-    "at": "2026-11-10T12:51:19.746Z"
+    "state": "idle",
+    "at": "2026-11-10T12:52:18.289Z"
   },
   "host": "HCM-5080",
   "remoteSession": "session_01RT8EhFkpbTVLwu2Xt7kdxL"
