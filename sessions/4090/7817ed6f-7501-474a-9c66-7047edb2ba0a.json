@@ -5,5 +5,12 @@
   "feature": "Branch s2 review",
   "status": "active",
   "startedAt": "2026-11-10T04:59:58.954Z",
-  "updatedAt": "2026-11-10T04:59:58.956Z"
+  "updatedAt": "2026-11-10T06:11:15.302Z",
+  "appliedTitle": "[4090] Branch s2 review",
+  "live": {
+    "state": "working",
+    "at": "2026-11-10T06:11:15.268Z"
+  },
+  "host": "BLACKGEAR",
+  "remoteSession": "session_01RT8EhGweFDhZehPfw5NKpW"
 }
