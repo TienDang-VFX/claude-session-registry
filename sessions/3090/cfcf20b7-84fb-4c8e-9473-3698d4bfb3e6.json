@@ -5,5 +5,12 @@
   "feature": "Đọc dashboard GD Yunxiao P2 Moveset",
   "status": "active",
   "startedAt": "2026-11-05T06:58:06.583Z",
-  "updatedAt": "2026-11-10T08:20:54.749Z"
+  "updatedAt": "2026-11-10T08:51:03.924Z",
+  "appliedTitle": "[3090] Đọc dashboard GD Yunxiao P2 Moveset",
+  "live": {
+    "state": "waiting",
+    "at": "2026-11-10T08:51:03.762Z"
+  },
+  "host": "DESKTOP-A4192P7",
+  "remoteSession": "session_01RT8EhDmL3uBXqYFrCtFPBc"
 }
