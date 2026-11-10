@@ -2,13 +2,15 @@
   "machine": "4090",
   "sessionId": "dc8f9383-4806-4fcd-98f7-d12519e09472",
   "cwd": "D:\\s2",
-  "feature": "Breakdown visual boss Vân Tiêu",
+  "feature": "Vân Tiêu boss VFX breakdown",
   "status": "active",
   "startedAt": "2026-11-10T08:15:49.731Z",
-  "updatedAt": "2026-11-10T08:15:52.341Z",
+  "updatedAt": "2026-11-10T08:16:27.198Z",
   "live": {
     "state": "working",
     "at": "2026-11-10T08:15:52.268Z"
   },
-  "host": "BLACKGEAR"
+  "host": "BLACKGEAR",
+  "appliedTitle": "[4090] Vân Tiêu boss VFX breakdown",
+  "featureSource": "user"
 }
