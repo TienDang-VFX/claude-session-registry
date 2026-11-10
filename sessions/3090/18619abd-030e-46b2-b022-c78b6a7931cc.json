@@ -5,11 +5,11 @@
   "feature": "Session Workspace Setup",
   "status": "active",
   "startedAt": "2026-11-10T02:12:29.718Z",
-  "updatedAt": "2026-11-10T04:39:02.901Z",
+  "updatedAt": "2026-11-10T04:40:24.507Z",
   "appliedTitle": "[3090] Session Workspace Setup",
   "live": {
-    "state": "working",
-    "at": "2026-11-10T04:39:02.843Z"
+    "state": "idle",
+    "at": "2026-11-10T04:40:24.436Z"
   },
   "host": "DESKTOP-A4192P7",
   "remoteSession": "session_01RT8EhGQJMYriqzhZz1xskf"
