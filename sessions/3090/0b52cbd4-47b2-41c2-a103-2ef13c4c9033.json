@@ -5,11 +5,11 @@
   "feature": "Death dissolve theo biome",
   "status": "active",
   "startedAt": "2026-11-09T16:31:07.835Z",
-  "updatedAt": "2026-11-10T07:56:02.095Z",
+  "updatedAt": "2026-11-10T08:01:53.568Z",
   "appliedTitle": "[3090] Death dissolve theo biome",
   "live": {
-    "state": "idle",
-    "at": "2026-11-10T07:56:01.644Z"
+    "state": "working",
+    "at": "2026-11-10T08:01:53.567Z"
   },
   "host": "DESKTOP-A4192P7",
   "remoteSession": "session_01RT8EhDZK1843RV11jsZuJ9"
