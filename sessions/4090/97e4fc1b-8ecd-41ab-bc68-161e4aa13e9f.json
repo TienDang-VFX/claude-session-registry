@@ -5,10 +5,10 @@
   "feature": "Dọn nhóm session-fleet",
   "status": "active",
   "startedAt": "2026-11-10T03:54:17.262Z",
-  "updatedAt": "2026-11-10T03:55:18.826Z",
+  "updatedAt": "2026-11-10T03:55:38.557Z",
   "appliedTitle": "[4090] Dọn nhóm session-fleet",
   "live": {
-    "state": "waiting",
-    "at": "2026-11-10T03:55:18.771Z"
+    "state": "idle",
+    "at": "2026-11-10T03:55:38.535Z"
   }
 }
