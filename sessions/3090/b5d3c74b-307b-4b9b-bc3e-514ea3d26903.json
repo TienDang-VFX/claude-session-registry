@@ -5,11 +5,11 @@
   "feature": "LumenLite",
   "status": "active",
   "startedAt": "2026-11-10T01:53:23.930Z",
-  "updatedAt": "2026-11-10T07:16:20.639Z",
+  "updatedAt": "2026-11-10T07:17:31.258Z",
   "appliedTitle": "[3090] Quản lý đăng ký người dùng",
   "live": {
-    "state": "working",
-    "at": "2026-11-10T07:16:20.638Z"
+    "state": "idle",
+    "at": "2026-11-10T07:17:31.210Z"
   },
   "remoteSession": "session_01RT8EhESRHU3r3u6Hwmmrwa",
   "host": "DESKTOP-A4192P7",
