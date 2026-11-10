@@ -5,10 +5,10 @@
   "feature": "Sàn và ánh sáng Cinematic Gym",
   "status": "active",
   "startedAt": "2026-11-10T07:18:18.452Z",
-  "updatedAt": "2026-11-10T08:50:27.023Z",
+  "updatedAt": "2026-11-10T08:51:04.431Z",
   "live": {
-    "state": "working",
-    "at": "2026-11-10T08:50:27.021Z"
+    "state": "idle",
+    "at": "2026-11-10T08:51:04.403Z"
   },
   "host": "BLACKGEAR",
   "appliedTitle": "[4090] Sàn và ánh sáng Cinematic Gym",
