@@ -5,10 +5,10 @@
   "feature": "Vân Tiêu boss VFX breakdown",
   "status": "active",
   "startedAt": "2026-11-10T08:15:49.731Z",
-  "updatedAt": "2026-11-10T11:24:30.656Z",
+  "updatedAt": "2026-11-10T11:24:47.878Z",
   "live": {
-    "state": "working",
-    "at": "2026-11-10T11:24:30.644Z"
+    "state": "idle",
+    "at": "2026-11-10T11:24:47.764Z"
   },
   "host": "BLACKGEAR",
   "appliedTitle": "[4090] Vân Tiêu boss VFX breakdown",
