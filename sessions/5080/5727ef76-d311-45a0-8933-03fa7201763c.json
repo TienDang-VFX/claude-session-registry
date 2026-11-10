@@ -5,10 +5,10 @@
   "feature": "Đọc skill VFX Review Dashboard",
   "status": "active",
   "startedAt": "2026-10-30T05:49:00.864Z",
-  "updatedAt": "2026-11-10T11:05:04.121Z",
+  "updatedAt": "2026-11-10T11:33:39.472Z",
   "live": {
-    "state": "idle",
-    "at": "2026-11-10T11:05:04.071Z"
+    "state": "working",
+    "at": "2026-11-10T11:33:39.472Z"
   },
   "host": "HCM-5080",
   "remoteSession": "session_01RT8EhE5ceF83PK1qo4vg2C",
