@@ -2,14 +2,15 @@
   "machine": "3090",
   "sessionId": "bcf46cac-4d5c-47e7-b190-08ebec184612",
   "cwd": "J:\\S2Project\\s2",
-  "feature": "Dọn tên và nhóm session",
+  "feature": "session-fleet: dọn session",
   "status": "active",
   "startedAt": "2026-11-11T13:11:11.734Z",
-  "updatedAt": "2026-11-11T13:13:15.714Z",
+  "updatedAt": "2026-11-11T15:24:30.241Z",
   "appliedTitle": "[3090] Dọn tên và nhóm session",
   "live": {
     "state": "idle",
     "at": "2026-11-11T13:13:15.356Z"
   },
-  "host": "DESKTOP-A4192P7"
+  "host": "DESKTOP-A4192P7",
+  "userTitle": "session-fleet: dọn session"
 }
