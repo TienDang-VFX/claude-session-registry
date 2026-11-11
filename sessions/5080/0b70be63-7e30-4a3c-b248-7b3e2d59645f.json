@@ -1,0 +1,16 @@
+{
+  "machine": "5080",
+  "sessionId": "0b70be63-7e30-4a3c-b248-7b3e2d59645f",
+  "cwd": "G:\\s2",
+  "feature": "Skill tự di chuyển check lighting",
+  "status": "active",
+  "startedAt": "2026-11-11T03:30:10.916Z",
+  "updatedAt": "2026-11-11T03:30:12.292Z",
+  "userTitle": "[5080] Skill tự di chuyển check lighting",
+  "live": {
+    "state": "working",
+    "at": "2026-11-11T03:30:12.115Z"
+  },
+  "host": "HCM-5080",
+  "remoteSession": "session_01RT8EhFkpbTVLwu2Xt7kdxL"
+}
