@@ -2,8 +2,14 @@
   "machine": "3090",
   "sessionId": "d78e6771-fb2b-45c4-a194-136ab911be04",
   "cwd": "J:\\S2Project\\s2",
-  "feature": "",
+  "feature": "Dọn tên và nhóm sidebar",
   "status": "active",
   "startedAt": "2026-11-11T02:45:07.892Z",
-  "updatedAt": "2026-11-11T02:45:07.899Z"
+  "updatedAt": "2026-11-11T02:45:18.211Z",
+  "appliedTitle": "[3090] Dọn tên và nhóm sidebar",
+  "live": {
+    "state": "working",
+    "at": "2026-11-11T02:45:17.828Z"
+  },
+  "host": "DESKTOP-A4192P7"
 }
