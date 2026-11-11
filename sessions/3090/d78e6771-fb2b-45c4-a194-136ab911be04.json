@@ -5,11 +5,11 @@
   "feature": "Dọn tên và nhóm sidebar",
   "status": "active",
   "startedAt": "2026-11-11T02:45:07.892Z",
-  "updatedAt": "2026-11-11T02:45:18.211Z",
+  "updatedAt": "2026-11-11T02:47:19.527Z",
   "appliedTitle": "[3090] Dọn tên và nhóm sidebar",
   "live": {
-    "state": "working",
-    "at": "2026-11-11T02:45:17.828Z"
+    "state": "idle",
+    "at": "2026-11-11T02:47:19.453Z"
   },
   "host": "DESKTOP-A4192P7"
 }
