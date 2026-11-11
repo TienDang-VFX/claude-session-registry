@@ -5,11 +5,11 @@
   "feature": "Dọn nhóm và Remote Control",
   "status": "active",
   "startedAt": "2026-11-11T01:02:37.808Z",
-  "updatedAt": "2026-11-11T01:02:41.677Z",
+  "updatedAt": "2026-11-11T01:03:46.816Z",
   "appliedTitle": "[3090] Dọn nhóm và Remote Control",
   "live": {
-    "state": "working",
-    "at": "2026-11-11T01:02:41.595Z"
+    "state": "idle",
+    "at": "2026-11-11T01:03:46.809Z"
   },
   "host": "DESKTOP-A4192P7"
 }
