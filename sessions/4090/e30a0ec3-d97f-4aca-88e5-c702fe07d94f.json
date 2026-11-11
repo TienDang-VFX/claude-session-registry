@@ -3,14 +3,18 @@
   "sessionId": "e30a0ec3-d97f-4aca-88e5-c702fe07d94f",
   "cwd": "D:\\s2",
   "feature": "Sàn và ánh sáng Cinematic Gym",
-  "status": "active",
+  "status": "done",
   "startedAt": "2026-11-10T08:55:12.172Z",
-  "updatedAt": "2026-11-11T03:01:17.539Z",
+  "updatedAt": "2026-11-11T03:11:58.545Z",
   "userTitle": "[4090] Sàn và ánh sáng Cinematic Gym",
   "live": {
-    "state": "idle",
-    "at": "2026-11-11T03:01:17.500Z"
+    "state": "working",
+    "at": "2026-11-11T03:11:55.094Z"
   },
   "host": "BLACKGEAR",
-  "remoteSession": "session_01XeXbvV9Jh14Uhaxx39qDL9"
+  "remoteSession": "session_01XeXbvV9Jh14Uhaxx39qDL9",
+  "doneAt": "2026-11-11T03:11:58.393Z",
+  "note": "Cinematic Gym context 37474: Floor OK for BVT and Tiger, Floor + Lighting OK for BVT; Tiger needs sky-state capture; uncommitted in lane cine-gym-context",
+  "isMarkedCompleted": true,
+  "appliedTitle": "[4090] ✅ Sàn và ánh sáng Cinematic Gym"
 }
