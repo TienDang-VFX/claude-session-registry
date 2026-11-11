@@ -5,11 +5,11 @@
   "feature": "FX AoBing Detonate (#37506)",
   "status": "active",
   "startedAt": "2026-11-11T09:40:39.990Z",
-  "updatedAt": "2026-11-11T15:28:43.253Z",
+  "updatedAt": "2026-11-11T15:38:35.416Z",
   "appliedTitle": "[4090] AoBing Detonate FX Improvement",
   "live": {
-    "state": "idle",
-    "at": "2026-11-11T15:28:43.205Z"
+    "state": "working",
+    "at": "2026-11-11T15:38:35.415Z"
   },
   "host": "BLACKGEAR",
   "userTitle": "FX AoBing Detonate (#37506)",
