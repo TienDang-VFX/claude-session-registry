@@ -1,11 +1,11 @@
 {
   "machine": "3090",
   "sessionId": "0b52cbd4-47b2-41c2-a103-2ef13c4c9033",
-  "cwd": "J:\\S2Project\\s2",
+  "cwd": "J:\\S2Project\\s2\\Saved\\Reviews\\SwordVisibility\\dash",
   "feature": "Death dissolve theo biome",
   "status": "active",
   "startedAt": "2026-11-09T16:31:07.835Z",
-  "updatedAt": "2026-11-11T06:49:16.203Z",
+  "updatedAt": "2026-11-11T06:57:23.731Z",
   "appliedTitle": "[3090] Death dissolve theo biome",
   "live": {
     "state": "working",
