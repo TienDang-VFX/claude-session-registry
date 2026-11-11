@@ -5,10 +5,10 @@
   "feature": "Kiểm tra trạng thái máy in",
   "status": "active",
   "startedAt": "2026-11-02T01:59:20.441Z",
-  "updatedAt": "2026-11-11T03:13:33.774Z",
+  "updatedAt": "2026-11-11T03:14:09.099Z",
   "live": {
-    "state": "working",
-    "at": "2026-11-11T03:13:33.772Z"
+    "state": "idle",
+    "at": "2026-11-11T03:14:08.990Z"
   },
   "host": "DESKTOP-A4192P7",
   "remoteSession": "session_01XeXbvUT3WQa2jLmCqkKjvv",
