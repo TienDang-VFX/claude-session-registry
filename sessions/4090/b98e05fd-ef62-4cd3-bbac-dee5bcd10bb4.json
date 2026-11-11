@@ -2,14 +2,15 @@
   "machine": "4090",
   "sessionId": "b98e05fd-ef62-4cd3-bbac-dee5bcd10bb4",
   "cwd": "D:\\s2",
-  "feature": "AoBing Detonate FX Improvement",
+  "feature": "FX AoBing Detonate (#37506)",
   "status": "active",
   "startedAt": "2026-11-11T09:40:39.990Z",
-  "updatedAt": "2026-11-11T09:40:42.351Z",
+  "updatedAt": "2026-11-11T09:41:12.259Z",
   "appliedTitle": "[4090] AoBing Detonate FX Improvement",
   "live": {
     "state": "working",
     "at": "2026-11-11T09:40:42.309Z"
   },
-  "host": "BLACKGEAR"
+  "host": "BLACKGEAR",
+  "userTitle": "FX AoBing Detonate (#37506)"
 }
