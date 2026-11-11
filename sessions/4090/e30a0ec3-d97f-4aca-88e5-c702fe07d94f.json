@@ -5,11 +5,11 @@
   "feature": "Sàn và ánh sáng Cinematic Gym",
   "status": "done",
   "startedAt": "2026-11-10T08:55:12.172Z",
-  "updatedAt": "2026-11-11T17:18:05.277Z",
+  "updatedAt": "2026-11-11T17:18:25.819Z",
   "userTitle": "[4090] Sàn và ánh sáng Cinematic Gym",
   "live": {
-    "state": "working",
-    "at": "2026-11-11T17:18:05.277Z"
+    "state": "idle",
+    "at": "2026-11-11T17:18:25.786Z"
   },
   "host": "BLACKGEAR",
   "remoteSession": "session_01XeXbvS9NaDLfx8BfrWnViR",
