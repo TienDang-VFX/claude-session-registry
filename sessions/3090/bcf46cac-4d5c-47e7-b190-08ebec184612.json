@@ -5,11 +5,11 @@
   "feature": "Dọn tên và nhóm session",
   "status": "active",
   "startedAt": "2026-11-11T13:11:11.734Z",
-  "updatedAt": "2026-11-11T13:11:41.401Z",
+  "updatedAt": "2026-11-11T13:13:15.714Z",
   "appliedTitle": "[3090] Dọn tên và nhóm session",
   "live": {
-    "state": "working",
-    "at": "2026-11-11T13:11:40.558Z"
+    "state": "idle",
+    "at": "2026-11-11T13:13:15.356Z"
   },
   "host": "DESKTOP-A4192P7"
 }
