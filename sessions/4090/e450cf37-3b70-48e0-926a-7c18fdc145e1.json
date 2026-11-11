@@ -2,14 +2,15 @@
   "machine": "4090",
   "sessionId": "e450cf37-3b70-48e0-926a-7c18fdc145e1",
   "cwd": "D:\\s2",
-  "feature": "AoBing Skill Effects Marketplace Audit",
+  "feature": "AoBing boss marketplace VFX audit (#37382)",
   "status": "active",
   "startedAt": "2026-11-11T16:24:41.708Z",
-  "updatedAt": "2026-11-11T16:24:44.410Z",
+  "updatedAt": "2026-11-11T16:25:14.241Z",
   "appliedTitle": "[4090] AoBing Skill Effects Marketplace Audit",
   "live": {
     "state": "working",
     "at": "2026-11-11T16:24:44.332Z"
   },
-  "host": "BLACKGEAR"
+  "host": "BLACKGEAR",
+  "userTitle": "AoBing boss marketplace VFX audit (#37382)"
 }
