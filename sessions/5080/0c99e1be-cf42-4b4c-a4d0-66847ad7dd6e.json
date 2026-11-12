@@ -5,10 +5,11 @@
   "feature": "Agent Desktop Connectivity Test",
   "status": "active",
   "startedAt": "2026-11-12T09:28:28.452Z",
-  "updatedAt": "2026-11-12T09:28:31.720Z",
+  "updatedAt": "2026-11-12T09:28:45.961Z",
   "live": {
-    "state": "working",
-    "at": "2026-11-12T09:28:31.656Z"
+    "state": "idle",
+    "at": "2026-11-12T09:28:45.922Z"
   },
-  "host": "HCM-5080"
+  "host": "HCM-5080",
+  "appliedTitle": "[5080] Agent Desktop Connectivity Test"
 }
