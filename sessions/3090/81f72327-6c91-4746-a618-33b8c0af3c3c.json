@@ -2,8 +2,14 @@
   "machine": "3090",
   "sessionId": "81f72327-6c91-4746-a618-33b8c0af3c3c",
   "cwd": "J:\\S2Project\\s2\\Saved\\Reviews\\Library\\ai_review\\all",
-  "feature": "",
+  "feature": "I'm ready to review the 30 Niagara effects. Please share the",
   "status": "active",
   "startedAt": "2026-11-12T11:30:24.230Z",
-  "updatedAt": "2026-11-12T11:30:24.273Z"
+  "updatedAt": "2026-11-12T11:30:41.427Z",
+  "appliedTitle": "[3090] I'm ready to review the 30 Niagara effects. Please share the",
+  "live": {
+    "state": "working",
+    "at": "2026-11-12T11:30:41.369Z"
+  },
+  "host": "DESKTOP-A4192P7"
 }
