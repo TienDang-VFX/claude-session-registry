@@ -5,10 +5,10 @@
   "feature": "S2FLEET job 37234 execution",
   "status": "active",
   "startedAt": "2026-11-12T10:39:55.207Z",
-  "updatedAt": "2026-11-12T13:47:51.743Z",
+  "updatedAt": "2026-11-12T13:50:09.203Z",
   "live": {
-    "state": "working",
-    "at": "2026-11-12T13:47:51.742Z"
+    "state": "idle",
+    "at": "2026-11-12T13:50:09.176Z"
   },
   "host": "BLACKGEAR",
   "appliedTitle": "[4090] S2FLEET job 37234 execution",
