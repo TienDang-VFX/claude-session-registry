@@ -5,10 +5,10 @@
   "feature": "S2 Fleet Job 37320 PR",
   "status": "active",
   "startedAt": "2026-11-12T16:23:18.019Z",
-  "updatedAt": "2026-11-12T17:31:29.189Z",
+  "updatedAt": "2026-11-12T17:37:29.172Z",
   "live": {
-    "state": "working",
-    "at": "2026-11-12T17:31:29.189Z"
+    "state": "idle",
+    "at": "2026-11-12T17:37:29.134Z"
   },
   "host": "HCM-5080",
   "appliedTitle": "[5080] S2 Fleet Job 37320 PR",
