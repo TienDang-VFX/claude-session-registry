@@ -5,10 +5,10 @@
   "feature": "Run S2 Fleet job 36389",
   "status": "active",
   "startedAt": "2026-11-12T17:17:42.643Z",
-  "updatedAt": "2026-11-12T23:14:26.852Z",
+  "updatedAt": "2026-11-12T23:30:00.515Z",
   "live": {
-    "state": "working",
-    "at": "2026-11-12T23:14:26.852Z"
+    "state": "idle",
+    "at": "2026-11-12T23:30:00.486Z"
   },
   "host": "BLACKGEAR",
   "appliedTitle": "[4090] Run S2 Fleet job 36389",
