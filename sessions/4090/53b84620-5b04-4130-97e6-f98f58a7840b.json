@@ -5,10 +5,12 @@
   "feature": "Test Fleet B Job Run",
   "status": "active",
   "startedAt": "2026-11-12T09:57:58.168Z",
-  "updatedAt": "2026-11-12T09:57:59.959Z",
+  "updatedAt": "2026-11-12T10:03:29.281Z",
   "live": {
-    "state": "working",
-    "at": "2026-11-12T09:57:59.927Z"
+    "state": "idle",
+    "at": "2026-11-12T10:03:29.255Z"
   },
-  "host": "BLACKGEAR"
+  "host": "BLACKGEAR",
+  "appliedTitle": "[4090] Test Fleet B Job Run",
+  "remoteSession": "session_01XeXbvUCfp5Lzwx8Umid5SW"
 }
