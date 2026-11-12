@@ -5,10 +5,12 @@
   "feature": "Run Fleet Test-Fleet-A Job",
   "status": "active",
   "startedAt": "2026-11-12T09:45:44.886Z",
-  "updatedAt": "2026-11-12T09:45:46.559Z",
+  "updatedAt": "2026-11-12T09:54:53.385Z",
   "live": {
-    "state": "working",
-    "at": "2026-11-12T09:45:46.521Z"
+    "state": "idle",
+    "at": "2026-11-12T09:54:53.356Z"
   },
-  "host": "BLACKGEAR"
+  "host": "BLACKGEAR",
+  "appliedTitle": "[4090] Run Fleet Test-Fleet-A Job",
+  "remoteSession": "session_01XeXbvTZrkRmPwf5WFsQU6B"
 }
