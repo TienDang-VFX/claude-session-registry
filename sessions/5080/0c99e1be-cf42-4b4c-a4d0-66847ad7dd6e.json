@@ -2,8 +2,13 @@
   "machine": "5080",
   "sessionId": "0c99e1be-cf42-4b4c-a4d0-66847ad7dd6e",
   "cwd": "G:\\s2",
-  "feature": "",
+  "feature": "Agent Desktop Connectivity Test",
   "status": "active",
   "startedAt": "2026-11-12T09:28:28.452Z",
-  "updatedAt": "2026-11-12T09:28:28.453Z"
+  "updatedAt": "2026-11-12T09:28:31.720Z",
+  "live": {
+    "state": "working",
+    "at": "2026-11-12T09:28:31.656Z"
+  },
+  "host": "HCM-5080"
 }
