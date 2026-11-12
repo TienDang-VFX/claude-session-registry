@@ -5,10 +5,12 @@
   "feature": "S2 Fleet Task 37320",
   "status": "active",
   "startedAt": "2026-11-12T15:32:53.641Z",
-  "updatedAt": "2026-11-12T15:32:57.737Z",
+  "updatedAt": "2026-11-12T15:34:37.071Z",
   "live": {
-    "state": "working",
-    "at": "2026-11-12T15:32:57.615Z"
+    "state": "idle",
+    "at": "2026-11-12T15:34:37.005Z"
   },
-  "host": "HCM-5080"
+  "host": "HCM-5080",
+  "appliedTitle": "[5080] S2 Fleet Task 37320",
+  "remoteSession": "session_01XeXbvT5BLjYimU3aVQ9swV"
 }
