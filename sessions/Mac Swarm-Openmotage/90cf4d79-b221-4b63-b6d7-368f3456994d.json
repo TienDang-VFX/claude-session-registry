@@ -2,8 +2,14 @@
   "machine": "Mac Swarm-Openmotage",
   "sessionId": "90cf4d79-b221-4b63-b6d7-368f3456994d",
   "cwd": "/Users/auto-annie/OpenMontage",
-  "feature": "",
+  "feature": "Dọn tên và nhóm session",
   "status": "active",
   "startedAt": "2026-11-12T01:10:58.333Z",
-  "updatedAt": "2026-11-12T01:10:58.334Z"
+  "updatedAt": "2026-11-12T01:11:00.298Z",
+  "appliedTitle": "[Mac Swarm-Openmotage] Dọn tên và nhóm session",
+  "live": {
+    "state": "working",
+    "at": "2026-11-12T01:11:00.254Z"
+  },
+  "host": "Autos-Mac-mini.local"
 }
