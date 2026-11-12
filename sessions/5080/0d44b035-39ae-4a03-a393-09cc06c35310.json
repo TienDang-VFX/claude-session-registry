@@ -5,11 +5,11 @@
   "feature": "Kiểm tra desktop agent",
   "status": "active",
   "startedAt": "2026-11-12T09:13:01.321Z",
-  "updatedAt": "2026-11-12T09:13:15.088Z",
+  "updatedAt": "2026-11-12T09:13:20.151Z",
   "appliedTitle": "[5080] Kiểm tra desktop agent",
   "live": {
-    "state": "working",
-    "at": "2026-11-12T09:13:15.083Z"
+    "state": "idle",
+    "at": "2026-11-12T09:13:20.150Z"
   },
   "host": "HCM-5080"
 }
