@@ -2,8 +2,13 @@
   "machine": "4090",
   "sessionId": "dde0a98c-ecac-46a1-9be3-a64f31292375",
   "cwd": "D:\\s2",
-  "feature": "",
+  "feature": "Agent desktop connectivity test",
   "status": "active",
   "startedAt": "2026-11-12T09:29:40.926Z",
-  "updatedAt": "2026-11-12T09:29:40.927Z"
+  "updatedAt": "2026-11-12T09:29:44.165Z",
+  "live": {
+    "state": "working",
+    "at": "2026-11-12T09:29:44.073Z"
+  },
+  "host": "BLACKGEAR"
 }
