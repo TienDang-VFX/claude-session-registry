@@ -5,10 +5,12 @@
   "feature": "Fleet send test",
   "status": "active",
   "startedAt": "2026-11-12T09:40:22.405Z",
-  "updatedAt": "2026-11-12T09:40:24.442Z",
+  "updatedAt": "2026-11-12T09:40:46.107Z",
   "live": {
-    "state": "working",
-    "at": "2026-11-12T09:40:24.413Z"
+    "state": "idle",
+    "at": "2026-11-12T09:40:46.007Z"
   },
-  "host": "BLACKGEAR"
+  "host": "BLACKGEAR",
+  "remoteSession": "session_01XeXbvVKx9p7NS2HXj24J29",
+  "appliedTitle": "[4090] Fleet send test"
 }
