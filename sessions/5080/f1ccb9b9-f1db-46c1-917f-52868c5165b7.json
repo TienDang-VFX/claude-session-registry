@@ -2,8 +2,14 @@
   "machine": "5080",
   "sessionId": "f1ccb9b9-f1db-46c1-917f-52868c5165b7",
   "cwd": "G:\\s2",
-  "feature": "",
+  "feature": "Dọn nhóm và Remote Control",
   "status": "active",
   "startedAt": "2026-11-12T17:10:57.810Z",
-  "updatedAt": "2026-11-12T17:10:57.812Z"
+  "updatedAt": "2026-11-12T17:11:01.274Z",
+  "appliedTitle": "[5080] Dọn nhóm và Remote Control",
+  "live": {
+    "state": "working",
+    "at": "2026-11-12T17:11:01.179Z"
+  },
+  "host": "HCM-5080"
 }
