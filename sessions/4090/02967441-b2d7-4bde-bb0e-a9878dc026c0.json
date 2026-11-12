@@ -5,11 +5,11 @@
   "feature": "Phản hồi xác nhận nhanh",
   "status": "active",
   "startedAt": "2026-11-12T07:54:34.661Z",
-  "updatedAt": "2026-11-12T07:54:47.796Z",
+  "updatedAt": "2026-11-12T07:56:07.323Z",
   "appliedTitle": "[4090] Phản hồi xác nhận nhanh",
   "live": {
-    "state": "working",
-    "at": "2026-11-12T07:54:47.790Z"
+    "state": "idle",
+    "at": "2026-11-12T07:56:07.322Z"
   },
   "host": "BLACKGEAR"
 }
