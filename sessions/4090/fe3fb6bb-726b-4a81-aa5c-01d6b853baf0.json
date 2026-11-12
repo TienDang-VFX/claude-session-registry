@@ -5,11 +5,12 @@
   "feature": "Execute S2 Fleet Task 36389",
   "status": "active",
   "startedAt": "2026-11-12T15:38:55.008Z",
-  "updatedAt": "2026-11-12T15:39:29.808Z",
+  "updatedAt": "2026-11-12T15:43:20.464Z",
   "live": {
-    "state": "working",
-    "at": "2026-11-12T15:38:59.972Z"
+    "state": "idle",
+    "at": "2026-11-12T15:43:20.433Z"
   },
   "host": "BLACKGEAR",
-  "appliedTitle": "[4090] Execute S2 Fleet Task 36389"
+  "appliedTitle": "[4090] Execute S2 Fleet Task 36389",
+  "remoteSession": "session_01XeXbvUnnAg2oMZXFh8jTSu"
 }
