@@ -1,0 +1,15 @@
+{
+  "machine": "3090",
+  "sessionId": "10665bb2-281c-48c9-b43c-a3249eba6102",
+  "cwd": "J:\\S2Project\\s2\\Saved\\Reviews\\Library\\ai_review\\all",
+  "feature": "I'm ready to review. Please provide:",
+  "status": "active",
+  "startedAt": "2026-11-12T11:23:44.891Z",
+  "updatedAt": "2026-11-12T11:23:58.360Z",
+  "appliedTitle": "[3090] I'm ready to review. Please provide:",
+  "live": {
+    "state": "working",
+    "at": "2026-11-12T11:23:58.196Z"
+  },
+  "host": "DESKTOP-A4192P7"
+}
