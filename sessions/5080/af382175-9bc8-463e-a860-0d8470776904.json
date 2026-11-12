@@ -5,12 +5,12 @@
   "feature": "Lighting Aobing Boss",
   "status": "active",
   "startedAt": "2026-11-09T16:52:33.126Z",
-  "updatedAt": "2026-11-12T06:00:08.627Z",
+  "updatedAt": "2026-11-12T06:00:54.082Z",
   "featureSource": "user",
   "userTitle": "[5080] Lighting Aobing Boss",
   "live": {
-    "state": "idle",
-    "at": "2026-11-12T06:00:08.591Z"
+    "state": "working",
+    "at": "2026-11-12T06:00:54.080Z"
   },
   "host": "HCM-5080",
   "remoteSession": "session_01RT8EhDVMdE4pPo4bFGwhwK"
