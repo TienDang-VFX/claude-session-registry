@@ -2,8 +2,14 @@
   "machine": "4090",
   "sessionId": "fe3fb6bb-726b-4a81-aa5c-01d6b853baf0",
   "cwd": "D:\\s2",
-  "feature": "",
+  "feature": "Execute S2 Fleet Task 36389",
   "status": "active",
   "startedAt": "2026-11-12T15:38:55.008Z",
-  "updatedAt": "2026-11-12T15:38:55.011Z"
+  "updatedAt": "2026-11-12T15:39:29.808Z",
+  "live": {
+    "state": "working",
+    "at": "2026-11-12T15:38:59.972Z"
+  },
+  "host": "BLACKGEAR",
+  "appliedTitle": "[4090] Execute S2 Fleet Task 36389"
 }
