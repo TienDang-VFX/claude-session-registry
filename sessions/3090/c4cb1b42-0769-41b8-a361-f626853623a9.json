@@ -5,11 +5,11 @@
   "feature": "Hệ thống gắn nhãn Niagara",
   "status": "active",
   "startedAt": "2026-11-05T03:22:04.028Z",
-  "updatedAt": "2026-11-12T09:21:11.937Z",
+  "updatedAt": "2026-11-12T09:54:08.720Z",
   "appliedTitle": "[3090] Hệ thống gắn nhãn Niagara",
   "live": {
-    "state": "idle",
-    "at": "2026-11-12T09:21:11.784Z"
+    "state": "working",
+    "at": "2026-11-12T09:54:08.720Z"
   },
   "host": "DESKTOP-A4192P7",
   "remoteSession": "session_01XeXbvTFp4McmSjQHoyRqeE"
