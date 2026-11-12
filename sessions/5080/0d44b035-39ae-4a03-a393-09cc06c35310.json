@@ -2,8 +2,14 @@
   "machine": "5080",
   "sessionId": "0d44b035-39ae-4a03-a393-09cc06c35310",
   "cwd": "G:\\s2",
-  "feature": "",
+  "feature": "Kiểm tra desktop agent",
   "status": "active",
   "startedAt": "2026-11-12T09:13:01.321Z",
-  "updatedAt": "2026-11-12T09:13:01.323Z"
+  "updatedAt": "2026-11-12T09:13:15.088Z",
+  "appliedTitle": "[5080] Kiểm tra desktop agent",
+  "live": {
+    "state": "working",
+    "at": "2026-11-12T09:13:15.083Z"
+  },
+  "host": "HCM-5080"
 }
