@@ -5,10 +5,10 @@
   "feature": "Audit marketplace skill AoBing",
   "status": "active",
   "startedAt": "2026-11-11T16:22:59.081Z",
-  "updatedAt": "2026-11-12T03:28:53.742Z",
+  "updatedAt": "2026-11-12T03:29:19.985Z",
   "live": {
-    "state": "working",
-    "at": "2026-11-12T03:28:53.741Z"
+    "state": "idle",
+    "at": "2026-11-12T03:29:19.952Z"
   },
   "host": "BLACKGEAR",
   "appliedTitle": "[4090] Audit marketplace skill AoBing",
