@@ -5,11 +5,11 @@
   "feature": "I'm ready to review the Niagara effects. Please share:",
   "status": "active",
   "startedAt": "2026-11-12T09:17:21.710Z",
-  "updatedAt": "2026-11-12T09:17:43.127Z",
+  "updatedAt": "2026-11-12T09:18:48.438Z",
   "appliedTitle": "[3090] I'm ready to review the Niagara effects. Please share:",
   "live": {
-    "state": "working",
-    "at": "2026-11-12T09:17:43.103Z"
+    "state": "idle",
+    "at": "2026-11-12T09:18:48.436Z"
   },
   "host": "DESKTOP-A4192P7"
 }
