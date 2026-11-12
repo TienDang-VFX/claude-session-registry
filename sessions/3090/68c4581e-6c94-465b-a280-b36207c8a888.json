@@ -2,8 +2,14 @@
   "machine": "3090",
   "sessionId": "68c4581e-6c94-465b-a280-b36207c8a888",
   "cwd": "J:\\S2Project\\s2",
-  "feature": "",
+  "feature": "Dọn tên và nhóm session",
   "status": "active",
   "startedAt": "2026-11-12T03:11:19.958Z",
-  "updatedAt": "2026-11-12T03:11:19.962Z"
+  "updatedAt": "2026-11-12T03:11:27.142Z",
+  "appliedTitle": "[3090] Dọn tên và nhóm session",
+  "live": {
+    "state": "working",
+    "at": "2026-11-12T03:11:26.905Z"
+  },
+  "host": "DESKTOP-A4192P7"
 }
