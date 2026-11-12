@@ -1,15 +1,15 @@
 {
   "machine": "3090",
   "sessionId": "0b52cbd4-47b2-41c2-a103-2ef13c4c9033",
-  "cwd": "J:\\S2Project\\s2\\Saved\\Screenshots\\WindowsEditor",
+  "cwd": "J:\\S2Project\\s2",
   "feature": "Death dissolve theo biome",
   "status": "active",
   "startedAt": "2026-11-09T16:31:07.835Z",
-  "updatedAt": "2026-11-12T04:51:54.386Z",
+  "updatedAt": "2026-11-12T11:20:10.056Z",
   "appliedTitle": "[3090] Death dissolve theo biome",
   "live": {
-    "state": "idle",
-    "at": "2026-11-12T04:51:54.197Z"
+    "state": "working",
+    "at": "2026-11-12T11:20:06.599Z"
   },
   "host": "DESKTOP-A4192P7",
   "remoteSession": "session_01XeXbvUsxxJG4kJCzXqiVQh"
