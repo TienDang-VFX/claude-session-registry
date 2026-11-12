@@ -2,8 +2,13 @@
   "machine": "4090",
   "sessionId": "756a82f5-a912-4e4c-9c2e-5a0f8e2a330b",
   "cwd": "D:\\s2",
-  "feature": "",
+  "feature": "Fleet send test",
   "status": "active",
   "startedAt": "2026-11-12T09:40:22.405Z",
-  "updatedAt": "2026-11-12T09:40:22.407Z"
+  "updatedAt": "2026-11-12T09:40:24.442Z",
+  "live": {
+    "state": "working",
+    "at": "2026-11-12T09:40:24.413Z"
+  },
+  "host": "BLACKGEAR"
 }
