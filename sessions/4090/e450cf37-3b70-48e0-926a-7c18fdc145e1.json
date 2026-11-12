@@ -5,11 +5,11 @@
   "feature": "AoBing boss marketplace VFX audit (#37382)",
   "status": "active",
   "startedAt": "2026-11-11T16:24:41.708Z",
-  "updatedAt": "2026-11-12T05:00:48.422Z",
+  "updatedAt": "2026-11-12T05:02:14.681Z",
   "appliedTitle": "[4090] AoBing Skill Effects Marketplace Audit",
   "live": {
-    "state": "idle",
-    "at": "2026-11-12T05:00:48.385Z"
+    "state": "working",
+    "at": "2026-11-12T05:02:14.680Z"
   },
   "host": "BLACKGEAR",
   "userTitle": "AoBing boss marketplace VFX audit (#37382)",
