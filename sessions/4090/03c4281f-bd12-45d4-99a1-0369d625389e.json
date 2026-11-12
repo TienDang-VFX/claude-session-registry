@@ -5,10 +5,12 @@
   "feature": "S2 Fleet Job 37234",
   "status": "active",
   "startedAt": "2026-11-12T10:40:12.033Z",
-  "updatedAt": "2026-11-12T10:40:13.718Z",
+  "updatedAt": "2026-11-12T10:41:00.862Z",
   "live": {
-    "state": "working",
-    "at": "2026-11-12T10:40:13.681Z"
+    "state": "idle",
+    "at": "2026-11-12T10:41:00.833Z"
   },
-  "host": "BLACKGEAR"
+  "host": "BLACKGEAR",
+  "appliedTitle": "[4090] S2 Fleet Job 37234",
+  "remoteSession": "session_01XeXbvTLwNpCm9M5w6jATYk"
 }
