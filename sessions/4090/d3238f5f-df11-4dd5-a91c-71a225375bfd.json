@@ -2,8 +2,13 @@
   "machine": "4090",
   "sessionId": "d3238f5f-df11-4dd5-a91c-71a225375bfd",
   "cwd": "D:\\s2",
-  "feature": "",
+  "feature": "Run S2 Fleet job 36389",
   "status": "active",
   "startedAt": "2026-11-12T17:17:42.643Z",
-  "updatedAt": "2026-11-12T17:17:42.669Z"
+  "updatedAt": "2026-11-12T17:17:44.391Z",
+  "live": {
+    "state": "working",
+    "at": "2026-11-12T17:17:44.362Z"
+  },
+  "host": "BLACKGEAR"
 }
