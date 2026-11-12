@@ -5,10 +5,12 @@
   "feature": "Agent desktop connectivity test",
   "status": "active",
   "startedAt": "2026-11-12T09:29:40.926Z",
-  "updatedAt": "2026-11-12T09:29:44.165Z",
+  "updatedAt": "2026-11-12T09:30:34.281Z",
   "live": {
-    "state": "working",
-    "at": "2026-11-12T09:29:44.073Z"
+    "state": "idle",
+    "at": "2026-11-12T09:30:34.247Z"
   },
-  "host": "BLACKGEAR"
+  "host": "BLACKGEAR",
+  "appliedTitle": "[4090] Agent desktop connectivity test",
+  "remoteSession": "session_01XeXbvTzsu9er93ZE8dZCv6"
 }
