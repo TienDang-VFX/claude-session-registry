@@ -5,10 +5,10 @@
   "feature": "S2 Fleet Job 37234",
   "status": "active",
   "startedAt": "2026-11-12T10:40:12.033Z",
-  "updatedAt": "2026-11-12T10:41:00.862Z",
+  "updatedAt": "2026-11-12T11:36:08.754Z",
   "live": {
-    "state": "idle",
-    "at": "2026-11-12T10:41:00.833Z"
+    "state": "working",
+    "at": "2026-11-12T11:36:08.753Z"
   },
   "host": "BLACKGEAR",
   "appliedTitle": "[4090] S2 Fleet Job 37234",
