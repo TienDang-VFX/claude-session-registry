@@ -2,8 +2,13 @@
   "machine": "5080",
   "sessionId": "e1f06435-9789-4d9e-bac1-66e8058b4aac",
   "cwd": "G:\\s2",
-  "feature": "",
+  "feature": "S2 Fleet Task 37320",
   "status": "active",
   "startedAt": "2026-11-12T15:32:53.641Z",
-  "updatedAt": "2026-11-12T15:32:53.643Z"
+  "updatedAt": "2026-11-12T15:32:57.737Z",
+  "live": {
+    "state": "working",
+    "at": "2026-11-12T15:32:57.615Z"
+  },
+  "host": "HCM-5080"
 }
