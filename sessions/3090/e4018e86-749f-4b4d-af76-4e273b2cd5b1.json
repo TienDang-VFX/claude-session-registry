@@ -5,11 +5,12 @@
   "feature": "btw: chính xác là đường dẫn nào",
   "status": "active",
   "startedAt": "2026-11-12T11:05:30.930Z",
-  "updatedAt": "2026-11-12T11:05:37.924Z",
+  "updatedAt": "2026-11-12T11:05:46.415Z",
   "appliedTitle": "[3090] btw: chính xác là đường dẫn nào",
   "live": {
-    "state": "working",
-    "at": "2026-11-12T11:05:37.801Z"
+    "state": "idle",
+    "at": "2026-11-12T11:05:45.686Z"
   },
-  "host": "DESKTOP-A4192P7"
+  "host": "DESKTOP-A4192P7",
+  "remoteSession": "session_01XeXbvTeP7TyejPSrvqdFsD"
 }
