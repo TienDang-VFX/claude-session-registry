@@ -2,8 +2,14 @@
   "machine": "4090",
   "sessionId": "02967441-b2d7-4bde-bb0e-a9878dc026c0",
   "cwd": "D:\\s2",
-  "feature": "",
+  "feature": "Phản hồi xác nhận nhanh",
   "status": "active",
   "startedAt": "2026-11-12T07:54:34.661Z",
-  "updatedAt": "2026-11-12T07:54:34.663Z"
+  "updatedAt": "2026-11-12T07:54:47.796Z",
+  "appliedTitle": "[4090] Phản hồi xác nhận nhanh",
+  "live": {
+    "state": "working",
+    "at": "2026-11-12T07:54:47.790Z"
+  },
+  "host": "BLACKGEAR"
 }
