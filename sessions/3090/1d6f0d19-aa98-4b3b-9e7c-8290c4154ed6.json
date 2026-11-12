@@ -2,8 +2,14 @@
   "machine": "3090",
   "sessionId": "1d6f0d19-aa98-4b3b-9e7c-8290c4154ed6",
   "cwd": "J:\\S2Project\\s2\\Saved\\Reviews\\Library\\ai_review\\all",
-  "feature": "",
+  "feature": "I'm ready to review the 30 effects. Please share:",
   "status": "active",
   "startedAt": "2026-11-12T11:20:03.513Z",
-  "updatedAt": "2026-11-12T11:20:03.601Z"
+  "updatedAt": "2026-11-12T11:20:15.949Z",
+  "appliedTitle": "[3090] I'm ready to review the 30 effects. Please share:",
+  "live": {
+    "state": "working",
+    "at": "2026-11-12T11:20:15.889Z"
+  },
+  "host": "DESKTOP-A4192P7"
 }
