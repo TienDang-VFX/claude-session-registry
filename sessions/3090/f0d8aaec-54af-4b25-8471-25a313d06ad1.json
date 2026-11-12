@@ -5,10 +5,10 @@
   "feature": "Truy vấn kênh chiếu sáng kẻ địch",
   "status": "active",
   "startedAt": "2026-11-12T07:37:01.668Z",
-  "updatedAt": "2026-11-12T07:49:32.343Z",
+  "updatedAt": "2026-11-12T07:53:39.588Z",
   "live": {
-    "state": "idle",
-    "at": "2026-11-12T07:49:32.268Z"
+    "state": "working",
+    "at": "2026-11-12T07:53:39.572Z"
   },
   "host": "DESKTOP-A4192P7",
   "remoteSession": "session_01XeXbvTe8j3rmZnA2MJzp1U",
