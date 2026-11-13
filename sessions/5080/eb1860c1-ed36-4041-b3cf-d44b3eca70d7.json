@@ -5,12 +5,13 @@
   "feature": "AoBing Area K shell: sửa lighting quá tối",
   "status": "active",
   "startedAt": "2026-11-13T04:37:05.517Z",
-  "updatedAt": "2026-11-13T04:37:47.350Z",
+  "updatedAt": "2026-11-13T06:16:40.695Z",
   "appliedTitle": "[5080] Sửa sáng khu vỏ sò AoBing",
   "live": {
-    "state": "working",
-    "at": "2026-11-13T04:37:17.401Z"
+    "state": "idle",
+    "at": "2026-11-13T06:16:40.612Z"
   },
   "host": "HCM-5080",
-  "userTitle": "AoBing Area K shell: sửa lighting quá tối"
+  "userTitle": "AoBing Area K shell: sửa lighting quá tối",
+  "remoteSession": "session_01XeXbvUjJ4sL1CGTRbXYMEi"
 }
