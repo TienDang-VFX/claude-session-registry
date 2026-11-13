@@ -5,14 +5,14 @@
   "feature": "Run S2 Fleet job 36389",
   "status": "done",
   "startedAt": "2026-11-12T17:17:42.643Z",
-  "updatedAt": "2026-11-13T01:59:44.275Z",
+  "updatedAt": "2026-11-13T01:59:51.217Z",
   "live": {
-    "state": "working",
-    "at": "2026-11-13T01:59:29.768Z"
+    "state": "idle",
+    "at": "2026-11-13T01:59:51.186Z"
   },
   "host": "BLACKGEAR",
   "appliedTitle": "[4090] ✅ Run S2 Fleet job 36389",
-  "remoteSession": "session_01XeXbvTMR92eTgGxVAwQsQH",
+  "remoteSession": "session_01XeXbvUyScNURTgLUKKQJHb",
   "doneAt": "2026-11-13T01:59:44.186Z",
   "note": "#36389 measured: MC face light has no measurable GPU cost on PC; issue commented and closed, no PR",
   "isMarkedCompleted": true
