@@ -5,10 +5,10 @@
   "feature": "Fix Blood Effect Lag",
   "status": "active",
   "startedAt": "2026-11-13T10:39:08.370Z",
-  "updatedAt": "2026-11-13T12:29:06.222Z",
+  "updatedAt": "2026-11-13T12:29:11.513Z",
   "live": {
-    "state": "working",
-    "at": "2026-11-13T12:29:06.221Z"
+    "state": "idle",
+    "at": "2026-11-13T12:29:11.457Z"
   },
   "host": "HCM-5080",
   "appliedTitle": "[5080] Fix Blood Effect Lag",
