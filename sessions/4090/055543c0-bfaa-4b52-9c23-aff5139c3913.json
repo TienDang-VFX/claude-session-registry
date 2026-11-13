@@ -5,10 +5,12 @@
   "feature": "Áp dụng perf light MC",
   "status": "active",
   "startedAt": "2026-11-13T02:53:37.954Z",
-  "updatedAt": "2026-11-13T02:53:40.970Z",
+  "updatedAt": "2026-11-13T03:07:21.638Z",
   "live": {
-    "state": "working",
-    "at": "2026-11-13T02:53:40.937Z"
+    "state": "idle",
+    "at": "2026-11-13T03:07:21.612Z"
   },
-  "host": "BLACKGEAR"
+  "host": "BLACKGEAR",
+  "appliedTitle": "[4090] Áp dụng perf light MC",
+  "remoteSession": "session_01XeXbvTq9m9YuiPtLAq3Z3o"
 }
