@@ -2,8 +2,13 @@
   "machine": "5080",
   "sessionId": "4916eec8-581d-4a1e-b092-a7158b7bb154",
   "cwd": "G:\\s2",
-  "feature": "",
+  "feature": "Fix Blood Effect Lag",
   "status": "active",
   "startedAt": "2026-11-13T10:39:08.370Z",
-  "updatedAt": "2026-11-13T10:39:08.398Z"
+  "updatedAt": "2026-11-13T10:39:10.798Z",
+  "live": {
+    "state": "working",
+    "at": "2026-11-13T10:39:10.703Z"
+  },
+  "host": "HCM-5080"
 }
