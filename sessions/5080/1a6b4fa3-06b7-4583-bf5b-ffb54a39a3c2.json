@@ -3,14 +3,17 @@
   "sessionId": "1a6b4fa3-06b7-4583-bf5b-ffb54a39a3c2",
   "cwd": "G:\\s2",
   "feature": "Ghost Vessel Cutscene Fog Fix",
-  "status": "active",
+  "status": "done",
   "startedAt": "2026-11-13T07:45:18.223Z",
-  "updatedAt": "2026-11-13T09:00:17.579Z",
+  "updatedAt": "2026-11-13T09:25:06.086Z",
   "live": {
     "state": "working",
     "at": "2026-11-13T09:00:17.579Z"
   },
   "host": "HCM-5080",
-  "appliedTitle": "[5080] Ghost Vessel Cutscene Fog Fix",
-  "remoteSession": "session_01RT8EhHNWDkfLxaBmts3uWp"
+  "appliedTitle": "[5080] ✅ Ghost Vessel Cutscene Fog Fix",
+  "remoteSession": "session_01RT8EhHNWDkfLxaBmts3uWp",
+  "doneAt": "2026-11-13T09:25:06.008Z",
+  "note": "#37320 second QA retest on main e4ecbb6 (PIE): draft PR #38184, dashboard WzU4jSf8vCt4BLuUrTNLt2",
+  "isMarkedCompleted": true
 }
