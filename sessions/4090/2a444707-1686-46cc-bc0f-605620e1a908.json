@@ -2,8 +2,14 @@
   "machine": "4090",
   "sessionId": "2a444707-1686-46cc-bc0f-605620e1a908",
   "cwd": "D:\\s2",
-  "feature": "",
+  "feature": "Dọn nhóm sidebar session-fleet",
   "status": "active",
   "startedAt": "2026-11-13T08:15:47.861Z",
-  "updatedAt": "2026-11-13T08:15:47.863Z"
+  "updatedAt": "2026-11-13T08:15:50.802Z",
+  "appliedTitle": "[4090] Dọn nhóm sidebar session-fleet",
+  "live": {
+    "state": "working",
+    "at": "2026-11-13T08:15:50.745Z"
+  },
+  "host": "BLACKGEAR"
 }
