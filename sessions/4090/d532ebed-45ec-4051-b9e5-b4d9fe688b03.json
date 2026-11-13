@@ -5,12 +5,12 @@
   "feature": "Hiệu ứng đỡ đòn thường",
   "status": "active",
   "startedAt": "2026-11-13T02:38:15.877Z",
-  "updatedAt": "2026-11-13T08:41:45.748Z",
+  "updatedAt": "2026-11-13T08:44:54.431Z",
   "live": {
-    "state": "working",
-    "at": "2026-11-13T08:41:45.743Z"
+    "state": "idle",
+    "at": "2026-11-13T08:44:54.387Z"
   },
   "host": "BLACKGEAR",
   "appliedTitle": "[4090] Hiệu ứng đỡ đòn thường",
-  "remoteSession": "session_01XeXbvSwuYEjZrs8EjWg189"
+  "remoteSession": "session_01RT8EhE6Qm6iZgLNjNZFjmv"
 }
