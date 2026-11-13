@@ -5,10 +5,10 @@
   "feature": "Tự khởi chạy Pasec RustDesk",
   "status": "active",
   "startedAt": "2026-11-07T04:30:14.360Z",
-  "updatedAt": "2026-11-13T03:42:44.883Z",
+  "updatedAt": "2026-11-13T03:43:18.171Z",
   "live": {
-    "state": "working",
-    "at": "2026-11-13T03:42:44.883Z"
+    "state": "idle",
+    "at": "2026-11-13T03:43:18.158Z"
   },
   "host": "Autos-Mac-mini.local",
   "remoteSession": "session_01RT8EhHNnMJXqZryET2u14h",
