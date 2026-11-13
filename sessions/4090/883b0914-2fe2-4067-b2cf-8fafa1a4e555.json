@@ -5,11 +5,11 @@
   "feature": "Giải phóng dung lượng đĩa",
   "status": "active",
   "startedAt": "2026-11-13T07:08:44.122Z",
-  "updatedAt": "2026-11-13T15:49:56.212Z",
+  "updatedAt": "2026-11-13T15:50:24.448Z",
   "appliedTitle": "[4090] Giải phóng dung lượng đĩa",
   "live": {
-    "state": "working",
-    "at": "2026-11-13T15:49:56.208Z"
+    "state": "idle",
+    "at": "2026-11-13T15:50:24.402Z"
   },
   "host": "BLACKGEAR",
   "remoteSession": "session_01RT8EhGohWqUZoe1iJrJLfW"
