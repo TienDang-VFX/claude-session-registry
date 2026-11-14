@@ -5,10 +5,10 @@
   "feature": "Fix Head Bloom Artifact",
   "status": "active",
   "startedAt": "2026-11-14T04:41:33.168Z",
-  "updatedAt": "2026-11-14T08:30:23.365Z",
+  "updatedAt": "2026-11-14T08:30:56.432Z",
   "live": {
-    "state": "working",
-    "at": "2026-11-14T08:30:23.365Z"
+    "state": "idle",
+    "at": "2026-11-14T08:30:56.412Z"
   },
   "host": "BLACKGEAR",
   "appliedTitle": "[4090] Fix Head Bloom Artifact",
