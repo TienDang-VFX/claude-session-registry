@@ -5,10 +5,10 @@
   "feature": "Undodgeable Yellow Weapon Slash VFX",
   "status": "active",
   "startedAt": "2026-11-14T10:06:18.339Z",
-  "updatedAt": "2026-11-14T12:40:51.972Z",
+  "updatedAt": "2026-11-14T12:57:27.149Z",
   "live": {
-    "state": "idle",
-    "at": "2026-11-14T12:40:51.937Z"
+    "state": "working",
+    "at": "2026-11-14T12:57:27.149Z"
   },
   "host": "BLACKGEAR",
   "appliedTitle": "[4090] Undodgeable Yellow Weapon Slash VFX",
