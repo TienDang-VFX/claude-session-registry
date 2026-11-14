@@ -5,10 +5,10 @@
   "feature": "Fix AoBing seafood enemy bug",
   "status": "active",
   "startedAt": "2026-11-14T04:15:25.490Z",
-  "updatedAt": "2026-11-14T04:32:49.557Z",
+  "updatedAt": "2026-11-14T04:33:06.593Z",
   "live": {
-    "state": "idle",
-    "at": "2026-11-14T04:32:49.391Z"
+    "state": "working",
+    "at": "2026-11-14T04:33:06.592Z"
   },
   "host": "BLACKGEAR",
   "appliedTitle": "[4090] Fix AoBing seafood enemy bug",
