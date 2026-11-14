@@ -5,11 +5,11 @@
   "feature": "Sáng mai: chạy lanes.ps1 Update cho D:\\s2",
   "status": "active",
   "startedAt": "2026-11-14T01:00:46.458Z",
-  "updatedAt": "2026-11-14T01:04:22.387Z",
+  "updatedAt": "2026-11-14T01:05:36.142Z",
   "appliedTitle": "[4090] S2 lanes morning update",
   "live": {
-    "state": "working",
-    "at": "2026-11-14T01:04:22.360Z"
+    "state": "idle",
+    "at": "2026-11-14T01:05:36.118Z"
   },
   "host": "BLACKGEAR",
   "userTitle": "Sáng mai: chạy lanes.ps1 Update cho D:\\s2"
