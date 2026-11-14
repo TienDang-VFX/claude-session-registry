@@ -2,14 +2,15 @@
   "machine": "4090",
   "sessionId": "5fa0833d-5ac4-429b-a91a-b78baf22d217",
   "cwd": "D:\\s2",
-  "feature": "S2 lanes morning update",
+  "feature": "Sáng mai: chạy lanes.ps1 Update cho D:\\s2",
   "status": "active",
   "startedAt": "2026-11-14T01:00:46.458Z",
-  "updatedAt": "2026-11-14T01:01:33.627Z",
+  "updatedAt": "2026-11-14T01:04:22.387Z",
   "appliedTitle": "[4090] S2 lanes morning update",
   "live": {
-    "state": "idle",
-    "at": "2026-11-14T01:01:33.599Z"
+    "state": "working",
+    "at": "2026-11-14T01:04:22.360Z"
   },
-  "host": "BLACKGEAR"
+  "host": "BLACKGEAR",
+  "userTitle": "Sáng mai: chạy lanes.ps1 Update cho D:\\s2"
 }
