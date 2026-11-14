@@ -5,10 +5,10 @@
   "feature": "Hiệu ứng đỡ đòn thường",
   "status": "active",
   "startedAt": "2026-11-13T02:38:15.877Z",
-  "updatedAt": "2026-11-13T17:28:04.036Z",
+  "updatedAt": "2026-11-14T02:52:37.216Z",
   "live": {
-    "state": "idle",
-    "at": "2026-11-13T17:28:04.005Z"
+    "state": "working",
+    "at": "2026-11-14T02:52:36.739Z"
   },
   "host": "BLACKGEAR",
   "appliedTitle": "[4090] Hiệu ứng đỡ đòn thường",
