@@ -5,11 +5,11 @@
   "feature": "S2 lanes morning update",
   "status": "active",
   "startedAt": "2026-11-14T01:00:46.458Z",
-  "updatedAt": "2026-11-14T01:00:49.724Z",
+  "updatedAt": "2026-11-14T01:01:33.627Z",
   "appliedTitle": "[4090] S2 lanes morning update",
   "live": {
-    "state": "working",
-    "at": "2026-11-14T01:00:49.672Z"
+    "state": "idle",
+    "at": "2026-11-14T01:01:33.599Z"
   },
   "host": "BLACKGEAR"
 }
