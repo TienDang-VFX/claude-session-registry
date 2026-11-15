@@ -5,10 +5,10 @@
   "feature": "Shell Opening Mist VFX",
   "status": "active",
   "startedAt": "2026-11-15T07:13:23.617Z",
-  "updatedAt": "2026-11-15T13:17:36.311Z",
+  "updatedAt": "2026-11-15T13:23:26.673Z",
   "live": {
-    "state": "idle",
-    "at": "2026-11-15T13:17:36.282Z"
+    "state": "working",
+    "at": "2026-11-15T13:23:26.673Z"
   },
   "host": "HCM-5080",
   "appliedTitle": "[5080] Shell Opening Mist VFX",
