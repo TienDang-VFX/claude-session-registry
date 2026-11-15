@@ -5,10 +5,10 @@
   "feature": "Trail Sub-Color Texture Restart Fix",
   "status": "active",
   "startedAt": "2026-11-15T04:41:53.512Z",
-  "updatedAt": "2026-11-15T06:09:35.995Z",
+  "updatedAt": "2026-11-15T06:12:22.058Z",
   "live": {
-    "state": "idle",
-    "at": "2026-11-15T06:09:35.959Z"
+    "state": "working",
+    "at": "2026-11-15T06:12:22.057Z"
   },
   "host": "HCM-5080",
   "appliedTitle": "[5080] Trail Sub-Color Texture Restart Fix",
