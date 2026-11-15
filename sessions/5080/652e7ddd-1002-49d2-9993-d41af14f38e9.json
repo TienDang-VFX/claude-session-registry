@@ -2,8 +2,13 @@
   "machine": "5080",
   "sessionId": "652e7ddd-1002-49d2-9993-d41af14f38e9",
   "cwd": "G:\\s2",
-  "feature": "",
+  "feature": "Shell Opening Mist VFX",
   "status": "active",
   "startedAt": "2026-11-15T07:13:23.617Z",
-  "updatedAt": "2026-11-15T07:13:23.619Z"
+  "updatedAt": "2026-11-15T07:13:26.602Z",
+  "live": {
+    "state": "working",
+    "at": "2026-11-15T07:13:26.520Z"
+  },
+  "host": "HCM-5080"
 }
