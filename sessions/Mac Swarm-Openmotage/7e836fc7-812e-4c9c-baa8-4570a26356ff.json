@@ -5,11 +5,12 @@
   "feature": "Triển khai RefGen lên Swarm",
   "status": "active",
   "startedAt": "2026-11-16T04:03:35.408Z",
-  "updatedAt": "2026-11-16T04:03:37.409Z",
+  "updatedAt": "2026-11-16T04:04:01.214Z",
   "live": {
-    "state": "working",
-    "at": "2026-11-16T04:03:37.378Z"
+    "state": "idle",
+    "at": "2026-11-16T04:04:01.176Z"
   },
   "host": "Autos-Mac-mini.local",
-  "remoteSession": "session_01RT8EhDYZbqPdQYXuuYRNie"
+  "remoteSession": "session_01RT8EhFgc6z7YeaN86xZGzE",
+  "appliedTitle": "[Mac Swarm-Openmotage] Triển khai RefGen lên Swarm"
 }
