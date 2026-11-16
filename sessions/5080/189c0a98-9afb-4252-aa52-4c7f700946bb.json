@@ -2,8 +2,13 @@
   "machine": "5080",
   "sessionId": "189c0a98-9afb-4252-aa52-4c7f700946bb",
   "cwd": "G:\\s2",
-  "feature": "",
+  "feature": "Gỡ FX vòng xoáy quanh boss",
   "status": "active",
   "startedAt": "2026-11-16T07:55:22.554Z",
-  "updatedAt": "2026-11-16T07:55:22.556Z"
+  "updatedAt": "2026-11-16T07:55:24.963Z",
+  "live": {
+    "state": "working",
+    "at": "2026-11-16T07:55:24.893Z"
+  },
+  "host": "HCM-5080"
 }
