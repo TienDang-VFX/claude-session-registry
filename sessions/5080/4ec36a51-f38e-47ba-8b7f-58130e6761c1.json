@@ -5,10 +5,10 @@
   "feature": "Boss Arena Brightness Increase",
   "status": "active",
   "startedAt": "2026-11-16T01:43:45.458Z",
-  "updatedAt": "2026-11-16T02:27:41.170Z",
+  "updatedAt": "2026-11-16T03:35:09.552Z",
   "live": {
-    "state": "working",
-    "at": "2026-11-16T02:27:41.166Z"
+    "state": "idle",
+    "at": "2026-11-16T03:35:09.526Z"
   },
   "host": "HCM-5080",
   "appliedTitle": "[5080] Boss Arena Brightness Increase",
