@@ -2,8 +2,15 @@
   "machine": "Mac Swarm-Openmotage",
   "sessionId": "aa8d240f-56ff-442c-b770-498feaacc95c",
   "cwd": "/Users/auto-annie/SwarmUI",
-  "feature": "",
+  "feature": "Triển khai RefGen lên Swarm",
   "status": "active",
   "startedAt": "2026-11-16T04:03:24.007Z",
-  "updatedAt": "2026-11-16T04:03:24.010Z"
+  "updatedAt": "2026-11-16T04:03:26.791Z",
+  "live": {
+    "state": "idle",
+    "at": "2026-11-16T04:03:26.680Z"
+  },
+  "host": "Autos-Mac-mini.local",
+  "remoteSession": "session_01RT8EhDYZbqPdQYXuuYRNie",
+  "appliedTitle": "[Mac Swarm-Openmotage] Triển khai RefGen lên Swarm"
 }
