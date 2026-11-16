@@ -5,10 +5,10 @@
   "feature": "Gỡ FX vòng xoáy quanh boss",
   "status": "active",
   "startedAt": "2026-11-16T07:55:22.554Z",
-  "updatedAt": "2026-11-16T12:35:52.262Z",
+  "updatedAt": "2026-11-16T12:53:46.103Z",
   "live": {
-    "state": "idle",
-    "at": "2026-11-16T12:35:52.223Z"
+    "state": "working",
+    "at": "2026-11-16T12:53:46.098Z"
   },
   "host": "HCM-5080",
   "appliedTitle": "[5080] Gỡ FX vòng xoáy quanh boss",
