@@ -5,10 +5,10 @@
   "feature": "Hỗ trợ định dạng MOV",
   "status": "active",
   "startedAt": "2026-11-16T11:03:39.605Z",
-  "updatedAt": "2026-11-16T11:52:30.548Z",
+  "updatedAt": "2026-11-16T11:54:12.472Z",
   "live": {
-    "state": "idle",
-    "at": "2026-11-16T11:52:30.479Z"
+    "state": "working",
+    "at": "2026-11-16T11:54:12.472Z"
   },
   "host": "HCM-5080",
   "remoteSession": "session_01RT8EhFqiH7RxKQrRcrrTth",
