@@ -2,8 +2,14 @@
   "machine": "4090",
   "sessionId": "83665913-9215-4741-b8f3-3d42ba435cd9",
   "cwd": "D:\\s2",
-  "feature": "",
+  "feature": "Dọn nhóm và Remote Control",
   "status": "active",
   "startedAt": "2026-11-17T01:11:09.022Z",
-  "updatedAt": "2026-11-17T01:11:09.023Z"
+  "updatedAt": "2026-11-17T01:11:12.135Z",
+  "appliedTitle": "[4090] Dọn nhóm và Remote Control",
+  "live": {
+    "state": "working",
+    "at": "2026-11-17T01:11:12.085Z"
+  },
+  "host": "BLACKGEAR"
 }
