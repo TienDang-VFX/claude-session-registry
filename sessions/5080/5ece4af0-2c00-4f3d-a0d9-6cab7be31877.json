@@ -5,10 +5,10 @@
   "feature": "Nâng cấp FX nhặt Phách",
   "status": "active",
   "startedAt": "2026-11-17T01:31:26.981Z",
-  "updatedAt": "2026-11-17T10:08:58.411Z",
+  "updatedAt": "2026-11-17T10:10:26.861Z",
   "live": {
-    "state": "idle",
-    "at": "2026-11-17T10:08:58.339Z"
+    "state": "working",
+    "at": "2026-11-17T10:10:26.860Z"
   },
   "host": "HCM-5080",
   "appliedTitle": "[5080] Nâng cấp FX nhặt Phách",
