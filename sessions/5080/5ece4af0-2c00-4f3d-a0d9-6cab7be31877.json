@@ -2,8 +2,13 @@
   "machine": "5080",
   "sessionId": "5ece4af0-2c00-4f3d-a0d9-6cab7be31877",
   "cwd": "G:\\s2",
-  "feature": "",
+  "feature": "Nâng cấp FX nhặt Phách",
   "status": "active",
   "startedAt": "2026-11-17T01:31:26.981Z",
-  "updatedAt": "2026-11-17T01:31:26.984Z"
+  "updatedAt": "2026-11-17T01:31:29.419Z",
+  "live": {
+    "state": "working",
+    "at": "2026-11-17T01:31:29.339Z"
+  },
+  "host": "HCM-5080"
 }
