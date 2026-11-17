@@ -5,10 +5,10 @@
   "feature": "Intro lighting debug fix",
   "status": "active",
   "startedAt": "2026-11-15T13:35:29.720Z",
-  "updatedAt": "2026-11-17T13:38:15.860Z",
+  "updatedAt": "2026-11-17T13:40:25.672Z",
   "live": {
-    "state": "working",
-    "at": "2026-11-17T13:38:15.855Z"
+    "state": "waiting",
+    "at": "2026-11-17T13:40:25.671Z"
   },
   "host": "HCM-5080",
   "appliedTitle": "[5080] Intro lighting debug fix",
