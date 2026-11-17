@@ -5,10 +5,12 @@
   "feature": "Fix Water Death Splash VFX",
   "status": "active",
   "startedAt": "2026-11-17T11:09:21.105Z",
-  "updatedAt": "2026-11-17T11:09:23.517Z",
+  "updatedAt": "2026-11-17T11:22:15.291Z",
   "live": {
-    "state": "working",
-    "at": "2026-11-17T11:09:23.416Z"
+    "state": "idle",
+    "at": "2026-11-17T11:22:14.125Z"
   },
-  "host": "HCM-5080"
+  "host": "HCM-5080",
+  "appliedTitle": "[5080] Fix Water Death Splash VFX",
+  "remoteSession": "session_01RT8EhEubQp74VHG5HRbkVA"
 }
