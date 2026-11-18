@@ -5,11 +5,11 @@
   "feature": "Review exposure Loc3 bản cook 5080",
   "status": "active",
   "startedAt": "2026-11-18T04:49:16.923Z",
-  "updatedAt": "2026-11-18T10:57:08.354Z",
+  "updatedAt": "2026-11-18T10:58:42.491Z",
   "appliedTitle": "[5080] Review exposure Loc3 bản cook 5080",
   "live": {
-    "state": "working",
-    "at": "2026-11-18T10:57:08.353Z"
+    "state": "idle",
+    "at": "2026-11-18T10:58:42.168Z"
   },
   "host": "HCM-5080",
   "remoteSession": "session_01RT8EhESkduTf1fcQnxAG9p"
