@@ -5,10 +5,10 @@
   "feature": "Huli Hair Color Transition FX",
   "status": "active",
   "startedAt": "2026-11-16T02:21:34.952Z",
-  "updatedAt": "2026-11-18T16:27:48.760Z",
+  "updatedAt": "2026-11-18T17:19:24.849Z",
   "live": {
-    "state": "idle",
-    "at": "2026-11-18T16:27:48.617Z"
+    "state": "working",
+    "at": "2026-11-18T17:19:24.849Z"
   },
   "host": "BLACKGEAR",
   "appliedTitle": "[4090] Huli Hair Color Transition FX",
