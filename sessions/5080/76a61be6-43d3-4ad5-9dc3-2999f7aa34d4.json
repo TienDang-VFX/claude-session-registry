@@ -2,8 +2,14 @@
   "machine": "5080",
   "sessionId": "76a61be6-43d3-4ad5-9dc3-2999f7aa34d4",
   "cwd": "G:\\s2",
-  "feature": "",
+  "feature": "Review exposure Loc3 bản cook 5080",
   "status": "active",
   "startedAt": "2026-11-18T04:49:16.923Z",
-  "updatedAt": "2026-11-18T04:49:16.933Z"
+  "updatedAt": "2026-11-18T04:49:18.939Z",
+  "appliedTitle": "[5080] Review exposure Loc3 bản cook 5080",
+  "live": {
+    "state": "working",
+    "at": "2026-11-18T04:49:18.878Z"
+  },
+  "host": "HCM-5080"
 }
