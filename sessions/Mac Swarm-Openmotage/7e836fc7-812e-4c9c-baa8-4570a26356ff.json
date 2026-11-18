@@ -5,10 +5,10 @@
   "feature": "Triển khai RefGen lên Swarm",
   "status": "active",
   "startedAt": "2026-11-16T04:03:35.408Z",
-  "updatedAt": "2026-11-18T03:18:32.082Z",
+  "updatedAt": "2026-11-18T03:48:50.195Z",
   "live": {
-    "state": "idle",
-    "at": "2026-11-18T03:18:32.070Z"
+    "state": "working",
+    "at": "2026-11-18T03:48:50.195Z"
   },
   "host": "Autos-Mac-mini.local",
   "remoteSession": "session_01RT8EhFgc6z7YeaN86xZGzE",
