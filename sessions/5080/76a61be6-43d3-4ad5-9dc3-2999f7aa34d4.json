@@ -1,15 +1,15 @@
 {
   "machine": "5080",
   "sessionId": "76a61be6-43d3-4ad5-9dc3-2999f7aa34d4",
-  "cwd": "G:\\s2",
+  "cwd": "G:\\s2\\Saved\\Reviews\\Loc3FaceBrightness",
   "feature": "Review exposure Loc3 bản cook 5080",
   "status": "active",
   "startedAt": "2026-11-18T04:49:16.923Z",
-  "updatedAt": "2026-11-18T07:11:10.196Z",
+  "updatedAt": "2026-11-18T09:39:17.666Z",
   "appliedTitle": "[5080] Review exposure Loc3 bản cook 5080",
   "live": {
-    "state": "idle",
-    "at": "2026-11-18T07:11:10.093Z"
+    "state": "working",
+    "at": "2026-11-18T09:39:17.253Z"
   },
   "host": "HCM-5080",
   "remoteSession": "session_01RT8EhESkduTf1fcQnxAG9p"
