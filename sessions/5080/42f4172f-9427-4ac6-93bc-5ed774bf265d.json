@@ -2,8 +2,13 @@
   "machine": "5080",
   "sessionId": "42f4172f-9427-4ac6-93bc-5ed774bf265d",
   "cwd": "G:\\s2",
-  "feature": "",
+  "feature": "Audit setup QTE BVT",
   "status": "active",
   "startedAt": "2026-11-18T11:37:51.788Z",
-  "updatedAt": "2026-11-18T11:37:51.791Z"
+  "updatedAt": "2026-11-18T11:37:54.052Z",
+  "live": {
+    "state": "working",
+    "at": "2026-11-18T11:37:53.935Z"
+  },
+  "host": "HCM-5080"
 }
