@@ -2,14 +2,15 @@
   "machine": "5080",
   "sessionId": "6bec1f22-7c41-482d-97e6-b8805e2bba7a",
   "cwd": "G:\\s2",
-  "feature": "Auto Boss Duel PIE Harness",
+  "feature": "MainChar vs boss fight replay script",
   "status": "active",
   "startedAt": "2026-11-19T03:58:59.091Z",
-  "updatedAt": "2026-11-19T03:59:02.791Z",
+  "updatedAt": "2026-11-19T03:59:32.609Z",
   "appliedTitle": "[5080] Auto Boss Duel PIE Harness",
   "live": {
     "state": "working",
     "at": "2026-11-19T03:59:02.687Z"
   },
-  "host": "HCM-5080"
+  "host": "HCM-5080",
+  "userTitle": "MainChar vs boss fight replay script"
 }
