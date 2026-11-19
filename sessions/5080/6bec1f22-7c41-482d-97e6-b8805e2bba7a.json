@@ -5,11 +5,11 @@
   "feature": "MainChar vs boss fight replay script",
   "status": "active",
   "startedAt": "2026-11-19T03:58:59.091Z",
-  "updatedAt": "2026-11-19T04:41:06.652Z",
+  "updatedAt": "2026-11-19T04:47:05.603Z",
   "appliedTitle": "[5080] Auto Boss Duel PIE Harness",
   "live": {
-    "state": "idle",
-    "at": "2026-11-19T04:41:06.585Z"
+    "state": "working",
+    "at": "2026-11-19T04:47:05.601Z"
   },
   "host": "HCM-5080",
   "userTitle": "MainChar vs boss fight replay script",
