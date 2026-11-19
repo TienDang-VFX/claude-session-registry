@@ -5,11 +5,12 @@
   "feature": "Huli hair FX — làm lại từ đầu",
   "status": "active",
   "startedAt": "2026-11-19T03:39:52.785Z",
-  "updatedAt": "2026-11-19T03:40:26.925Z",
+  "updatedAt": "2026-11-19T03:42:35.934Z",
   "live": {
-    "state": "working",
-    "at": "2026-11-19T03:39:56.953Z"
+    "state": "idle",
+    "at": "2026-11-19T03:42:35.227Z"
   },
   "host": "BLACKGEAR",
-  "appliedTitle": "[4090] Huli hair FX — làm lại từ đầu"
+  "appliedTitle": "[4090] Huli hair FX — làm lại từ đầu",
+  "remoteSession": "session_01RT8EhEewMeEdY9w2QsxFmy"
 }
