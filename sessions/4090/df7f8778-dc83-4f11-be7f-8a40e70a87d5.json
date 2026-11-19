@@ -2,8 +2,13 @@
   "machine": "4090",
   "sessionId": "df7f8778-dc83-4f11-be7f-8a40e70a87d5",
   "cwd": "D:\\s2",
-  "feature": "",
+  "feature": "Huli Hair Transition FX Restart",
   "status": "active",
   "startedAt": "2026-11-19T03:39:52.785Z",
-  "updatedAt": "2026-11-19T03:39:52.788Z"
+  "updatedAt": "2026-11-19T03:39:57.075Z",
+  "live": {
+    "state": "working",
+    "at": "2026-11-19T03:39:56.953Z"
+  },
+  "host": "BLACKGEAR"
 }
