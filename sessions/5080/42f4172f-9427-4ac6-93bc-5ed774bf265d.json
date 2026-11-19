@@ -5,10 +5,10 @@
   "feature": "Audit setup QTE BVT",
   "status": "active",
   "startedAt": "2026-11-18T11:37:51.788Z",
-  "updatedAt": "2026-11-19T08:36:57.035Z",
+  "updatedAt": "2026-11-19T09:04:06.175Z",
   "live": {
-    "state": "idle",
-    "at": "2026-11-19T08:36:56.904Z"
+    "state": "working",
+    "at": "2026-11-19T09:04:06.175Z"
   },
   "host": "HCM-5080",
   "appliedTitle": "[5080] Audit setup QTE BVT",
