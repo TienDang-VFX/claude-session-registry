@@ -5,10 +5,10 @@
   "feature": "Sửa trạng thái ban đầu vỏ sò",
   "status": "active",
   "startedAt": "2026-11-20T05:55:28.761Z",
-  "updatedAt": "2026-11-20T15:55:28.363Z",
+  "updatedAt": "2026-11-20T15:56:06.962Z",
   "live": {
-    "state": "waiting",
-    "at": "2026-11-20T15:55:28.362Z"
+    "state": "working",
+    "at": "2026-11-20T15:56:06.962Z"
   },
   "host": "BLACKGEAR",
   "remoteSession": "session_01RT8EhHMDauGBRjBT9M1WfC",
