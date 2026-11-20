@@ -5,10 +5,10 @@
   "feature": "Huli hair FX vs ref clip",
   "status": "active",
   "startedAt": "2026-11-20T06:00:13.215Z",
-  "updatedAt": "2026-11-20T10:12:30.146Z",
+  "updatedAt": "2026-11-20T10:27:23.184Z",
   "live": {
-    "state": "working",
-    "at": "2026-11-20T10:12:30.145Z"
+    "state": "idle",
+    "at": "2026-11-20T10:27:23.120Z"
   },
   "host": "BLACKGEAR",
   "remoteSession": "session_01RT8EhFDB5sGC6o8g6qLXDa",
