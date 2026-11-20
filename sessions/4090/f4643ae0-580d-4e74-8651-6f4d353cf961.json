@@ -5,11 +5,12 @@
   "feature": "Camera fix and hair effect",
   "status": "active",
   "startedAt": "2026-11-20T05:58:30.791Z",
-  "updatedAt": "2026-11-20T05:58:33.166Z",
+  "updatedAt": "2026-11-20T05:58:57.819Z",
   "appliedTitle": "[4090] Camera fix and hair effect",
   "live": {
-    "state": "working",
-    "at": "2026-11-20T05:58:33.117Z"
+    "state": "idle",
+    "at": "2026-11-20T05:58:57.715Z"
   },
-  "host": "BLACKGEAR"
+  "host": "BLACKGEAR",
+  "remoteSession": "session_01RT8EhF8pQBrFye1qp31tEV"
 }
