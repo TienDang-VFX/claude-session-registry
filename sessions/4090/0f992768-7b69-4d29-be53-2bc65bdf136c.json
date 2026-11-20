@@ -5,10 +5,10 @@
   "feature": "VFX tóc theo ref",
   "status": "active",
   "startedAt": "2026-11-20T06:00:13.215Z",
-  "updatedAt": "2026-11-20T06:45:54.793Z",
+  "updatedAt": "2026-11-20T06:46:29.858Z",
   "live": {
-    "state": "working",
-    "at": "2026-11-20T06:45:54.793Z"
+    "state": "idle",
+    "at": "2026-11-20T06:46:29.763Z"
   },
   "host": "BLACKGEAR",
   "remoteSession": "session_01RT8EhEYasTzZUuxdz6VrCE",
