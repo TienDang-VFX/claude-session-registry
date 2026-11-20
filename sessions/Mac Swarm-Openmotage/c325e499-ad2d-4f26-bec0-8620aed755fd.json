@@ -2,8 +2,14 @@
   "machine": "Mac Swarm-Openmotage",
   "sessionId": "c325e499-ad2d-4f26-bec0-8620aed755fd",
   "cwd": "/Users/auto-annie/OpenMontage",
-  "feature": "",
+  "feature": "Dọn tên và nhóm sidebar",
   "status": "active",
   "startedAt": "2026-11-20T01:11:01.136Z",
-  "updatedAt": "2026-11-20T01:11:01.140Z"
+  "updatedAt": "2026-11-20T01:11:03.195Z",
+  "appliedTitle": "[Mac Swarm-Openmotage] Dọn tên và nhóm sidebar",
+  "live": {
+    "state": "working",
+    "at": "2026-11-20T01:11:03.114Z"
+  },
+  "host": "Autos-Mac-mini.local"
 }
