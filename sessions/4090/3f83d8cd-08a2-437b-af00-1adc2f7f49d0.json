@@ -2,8 +2,13 @@
   "machine": "4090",
   "sessionId": "3f83d8cd-08a2-437b-af00-1adc2f7f49d0",
   "cwd": "D:\\s2",
-  "feature": "",
+  "feature": "Rà soát rule validation trong seq",
   "status": "active",
   "startedAt": "2026-11-20T13:35:31.385Z",
-  "updatedAt": "2026-11-20T13:35:31.386Z"
+  "updatedAt": "2026-11-20T13:35:33.182Z",
+  "live": {
+    "state": "working",
+    "at": "2026-11-20T13:35:33.116Z"
+  },
+  "host": "BLACKGEAR"
 }
