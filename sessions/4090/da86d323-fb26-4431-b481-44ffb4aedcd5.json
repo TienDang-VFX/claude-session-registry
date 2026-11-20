@@ -2,8 +2,14 @@
   "machine": "4090",
   "sessionId": "da86d323-fb26-4431-b481-44ffb4aedcd5",
   "cwd": "D:\\s2",
-  "feature": "",
+  "feature": "Dọn sidebar và Remote Control",
   "status": "active",
   "startedAt": "2026-11-20T01:10:41.096Z",
-  "updatedAt": "2026-11-20T01:10:41.099Z"
+  "updatedAt": "2026-11-20T01:10:44.668Z",
+  "appliedTitle": "[4090] Dọn sidebar và Remote Control",
+  "live": {
+    "state": "working",
+    "at": "2026-11-20T01:10:44.586Z"
+  },
+  "host": "BLACKGEAR"
 }
