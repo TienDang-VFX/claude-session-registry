@@ -2,15 +2,16 @@
   "machine": "4090",
   "sessionId": "0f992768-7b69-4d29-be53-2bc65bdf136c",
   "cwd": "D:\\s2",
-  "feature": "VFX tóc theo ref",
+  "feature": "Huli hair FX vs ref clip",
   "status": "active",
   "startedAt": "2026-11-20T06:00:13.215Z",
-  "updatedAt": "2026-11-20T07:05:46.755Z",
+  "updatedAt": "2026-11-20T07:12:23.089Z",
   "live": {
     "state": "working",
     "at": "2026-11-20T07:05:46.754Z"
   },
   "host": "BLACKGEAR",
   "remoteSession": "session_01RT8EhEYasTzZUuxdz6VrCE",
-  "appliedTitle": "[4090] VFX tóc theo ref"
+  "appliedTitle": "[4090] Huli hair FX vs ref clip",
+  "featureSource": "user"
 }
