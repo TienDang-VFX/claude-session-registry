@@ -5,10 +5,10 @@
   "feature": "Chẩn đoán nguyên nhân sập nguồn",
   "status": "active",
   "startedAt": "2026-11-20T04:19:29.518Z",
-  "updatedAt": "2026-11-20T04:42:57.960Z",
+  "updatedAt": "2026-11-20T04:43:11.618Z",
   "live": {
-    "state": "idle",
-    "at": "2026-11-20T04:42:57.924Z"
+    "state": "working",
+    "at": "2026-11-20T04:43:11.618Z"
   },
   "host": "HCM-5080",
   "appliedTitle": "[5080] Chẩn đoán nguyên nhân sập nguồn",
