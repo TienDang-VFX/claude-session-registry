@@ -5,10 +5,12 @@
   "feature": "Đóng sẵn vỏ sò trước cutscene",
   "status": "active",
   "startedAt": "2026-11-20T05:54:50.287Z",
-  "updatedAt": "2026-11-20T05:54:52.556Z",
+  "updatedAt": "2026-11-20T05:55:19.506Z",
   "live": {
-    "state": "working",
-    "at": "2026-11-20T05:54:52.399Z"
+    "state": "idle",
+    "at": "2026-11-20T05:55:19.307Z"
   },
-  "host": "BLACKGEAR"
+  "host": "BLACKGEAR",
+  "remoteSession": "session_01RT8EhH39Q73QvgY9yaDbQP",
+  "appliedTitle": "[4090] Đóng sẵn vỏ sò trước cutscene"
 }
