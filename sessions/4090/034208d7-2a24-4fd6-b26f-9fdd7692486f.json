@@ -5,12 +5,12 @@
   "feature": "Sửa trạng thái ban đầu vỏ sò",
   "status": "active",
   "startedAt": "2026-11-20T05:55:28.761Z",
-  "updatedAt": "2026-11-20T05:56:01.111Z",
+  "updatedAt": "2026-11-20T05:58:18.173Z",
   "live": {
-    "state": "working",
-    "at": "2026-11-20T05:55:31.161Z"
+    "state": "idle",
+    "at": "2026-11-20T05:58:18.135Z"
   },
   "host": "BLACKGEAR",
-  "remoteSession": "session_01RT8EhH39Q73QvgY9yaDbQP",
+  "remoteSession": "session_01RT8EhHMDauGBRjBT9M1WfC",
   "appliedTitle": "[4090] Sửa trạng thái ban đầu vỏ sò"
 }
