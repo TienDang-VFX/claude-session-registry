@@ -5,11 +5,11 @@
   "feature": "Huli hair FX — làm lại từ đầu (fork)",
   "status": "active",
   "startedAt": "2026-11-19T10:55:23.883Z",
-  "updatedAt": "2026-11-20T01:36:28.468Z",
+  "updatedAt": "2026-11-20T01:45:48.914Z",
   "userTitle": "[4090] Huli hair FX — làm lại từ đầu (fork)",
   "live": {
-    "state": "working",
-    "at": "2026-11-20T01:36:28.468Z"
+    "state": "idle",
+    "at": "2026-11-20T01:45:48.859Z"
   },
   "host": "BLACKGEAR",
   "remoteSession": "session_01RT8EhJ1YRpYZK1UfvhKVwW"
