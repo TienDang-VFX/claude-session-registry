@@ -1,0 +1,16 @@
+{
+  "machine": "4090",
+  "sessionId": "034208d7-2a24-4fd6-b26f-9fdd7692486f",
+  "cwd": "D:\\s2",
+  "feature": "Sửa trạng thái ban đầu vỏ sò",
+  "status": "active",
+  "startedAt": "2026-11-20T05:55:28.761Z",
+  "updatedAt": "2026-11-20T05:56:01.111Z",
+  "live": {
+    "state": "working",
+    "at": "2026-11-20T05:55:31.161Z"
+  },
+  "host": "BLACKGEAR",
+  "remoteSession": "session_01RT8EhH39Q73QvgY9yaDbQP",
+  "appliedTitle": "[4090] Sửa trạng thái ban đầu vỏ sò"
+}
