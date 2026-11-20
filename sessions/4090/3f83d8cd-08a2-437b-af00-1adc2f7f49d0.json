@@ -5,10 +5,12 @@
   "feature": "Rà soát rule validation trong seq",
   "status": "active",
   "startedAt": "2026-11-20T13:35:31.385Z",
-  "updatedAt": "2026-11-20T13:35:33.182Z",
+  "updatedAt": "2026-11-20T13:39:39.030Z",
   "live": {
-    "state": "working",
-    "at": "2026-11-20T13:35:33.116Z"
+    "state": "idle",
+    "at": "2026-11-20T13:39:38.991Z"
   },
-  "host": "BLACKGEAR"
+  "host": "BLACKGEAR",
+  "appliedTitle": "[4090] Rà soát rule validation trong seq",
+  "remoteSession": "session_01RT8EhGoydTmiAmdTYy2ypA"
 }
