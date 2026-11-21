@@ -5,10 +5,10 @@
   "feature": "Đọc tin nhắn TienDang",
   "status": "active",
   "startedAt": "2026-11-21T02:44:48.143Z",
-  "updatedAt": "2026-11-21T05:04:06.609Z",
+  "updatedAt": "2026-11-21T05:23:24.256Z",
   "live": {
-    "state": "working",
-    "at": "2026-11-21T05:04:06.599Z"
+    "state": "idle",
+    "at": "2026-11-21T05:23:24.195Z"
   },
   "host": "BLACKGEAR",
   "appliedTitle": "[4090] Đọc tin nhắn TienDang",
