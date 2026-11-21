@@ -5,11 +5,11 @@
   "feature": "QTE AoBing #39008: FAIL + polish",
   "status": "active",
   "startedAt": "2026-11-21T05:52:14.101Z",
-  "updatedAt": "2026-11-21T05:58:21.106Z",
+  "updatedAt": "2026-11-21T05:59:11.789Z",
   "userTitle": "QTE AoBing #39008: FAIL + polish",
   "live": {
-    "state": "working",
-    "at": "2026-11-21T05:58:21.073Z"
+    "state": "idle",
+    "at": "2026-11-21T05:59:11.744Z"
   },
   "host": "HCM-5080",
   "remoteSession": "session_01RT8EhFVnUZJdTgacQVzHtC"
