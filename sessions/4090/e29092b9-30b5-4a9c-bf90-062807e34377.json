@@ -5,10 +5,12 @@
   "feature": "Tải và mở OpenCode",
   "status": "active",
   "startedAt": "2026-11-21T05:29:07.801Z",
-  "updatedAt": "2026-11-21T05:29:09.404Z",
+  "updatedAt": "2026-11-21T05:30:36.638Z",
   "live": {
-    "state": "working",
-    "at": "2026-11-21T05:29:09.321Z"
+    "state": "idle",
+    "at": "2026-11-21T05:30:36.573Z"
   },
-  "host": "BLACKGEAR"
+  "host": "BLACKGEAR",
+  "appliedTitle": "[4090] Tải và mở OpenCode",
+  "remoteSession": "session_01RT8EhFfcp8zWFGLrALJiit"
 }
