@@ -2,9 +2,14 @@
   "machine": "5080",
   "sessionId": "3565acd7-5af3-41aa-8ceb-60c9b15874fc",
   "cwd": "G:\\s2",
-  "feature": "Audit setup QTE BVT",
+  "feature": "QTE AoBing #39008: FAIL + polish",
   "status": "active",
   "startedAt": "2026-11-21T05:52:14.101Z",
-  "updatedAt": "2026-11-21T05:52:14.104Z",
-  "userTitle": "[5080] Audit setup QTE BVT"
+  "updatedAt": "2026-11-21T05:52:15.875Z",
+  "userTitle": "QTE AoBing #39008: FAIL + polish",
+  "live": {
+    "state": "working",
+    "at": "2026-11-21T05:52:15.631Z"
+  },
+  "host": "HCM-5080"
 }
